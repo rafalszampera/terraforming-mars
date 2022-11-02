@@ -101,7 +101,7 @@
     "Place an ocean tile. Decrease your M€ production 2 steps and increase your heat production 3 steps.": "Umieść na planszy obszar oceanu. Obniż swoją produkcję M€ o 2 poziomy i podnieś swoją produkcję ciepła o 3 poziomy.",
     
 	"Arctic Algae": "Algi Arktyczne",
-    "(Effect: When anyone places an ocean tile, gain 2 plants.)": "(Efekt: Kiedy któryś z graczy kładzie obszar oceanu na polanszy, otrzymujesz 2 jednostki roślinności.)",
+    "(Effect: When anyone places an ocean tile, gain 2 plants.)": "(Efekt trwały: Kiedy któryś z graczy kładzie obszar oceanu na polanszy, otrzymujesz 2 jednostki roślinności.)",
     "(It must be -12 C or colder to play. Gain 1 plant.)": "Temperatura musi być równa lub niższa niż -18°C. Otrzymujesz 1 jednostkę roślinności.",
     
 	"Predators": "Drapieżniki",
@@ -700,7 +700,7 @@
 	"2 Science": "2 symbole nauki",
     "3 Science": "3 symbole nauki",
     "5 Science": "5 symboli nauki",
-    "(Effect: Draw 2 cards.)": "(Efekt: Dobierz 2 karty.)",
+    "(Effect: Draw 2 cards.)": "(Efekt trwały: Dobierz 2 karty.)",
     "Requires 3 science tags to play. Decrease your energy production 1 step.": "Musisz posiadać przynajmniej 3 symbole nauki. Obniż swoją produkcję energii o 1 poziom.",
     "HYDROGEN TO VENUS": "Wodór na Wenus",
     "Plant Microbe Animal": "Roślina Mikrob Zwierzę",
