@@ -1,82 +1,82 @@
 {
-    "Corporate Archives": "Archiwum korporacji",
-    "Look at the top 7 cards from the deck. Take 2 of them into hand and discard the other 5.": "Podejrzyj 7 kart ze stosu. Weź 2 na rękę i odrzuć pozostałe 5.",
+    "Corporate Archives": "Archiwa Korporacji",
+    "Look at the top 7 cards from the deck. Take 2 of them into hand and discard the other 5.": "Dobierz 7 kart. Zatrzymaj 2 z nich a pozostałe 5 odrzuć.",
     "Gain 13 M€": "Otrzymujesz 13 M€",
     
 	"Merger": "Fuzja",
-    "Draw 4 corporation cards. Play one of them and discard the other 3. Then pay 42 M€.": "Odkryj 4 karty korporacji. Zagraj jedną z nich i odrzuć pozostałe 3. Następnie wydaj 42  M€.",
+    "Draw 4 corporation cards. Play one of them and discard the other 3. Then pay 42 M€.": "Odkryj 4 karty korporacji. Zagraj jedną z nich i odrzuć pozostałe 3. Następnie wydaj 42 M€.",
     
-	"New Partner": "Nowy partner",
-    "Raise your M€ production 1 step. Immediately draw 2 prelude cards. Play 1 of them, and discard the other.": "Podnieś swój poziom produkcji M€ o jeden. Nastepnie wylosuj dwie karty zagraj jedną z nich i odrzuć drugą.",
+	"New Partner": "Nowy Partner",
+    "Raise your M€ production 1 step. Immediately draw 2 prelude cards. Play 1 of them, and discard the other.": "Podnieś swój poziom produkcji M€ o 1 poziom. Dobiera 2 karty preludiów i zagraj jedną z nich a drugą odrzuć.",
     
-	"Comet Aiming": "Celowana kometa",
+	"Comet Aiming": "Celowana Kometa",
     "Action: Spend 1 titanium to add 1 asteroid resource to ANY CARD.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić 1 jednostkę asteroid na dowolnej karcie.",
-    "Action: Remove 1 asteroid here to place an ocean.": "Akcja: Wydaj 1 jednostkę asteroid z tej karty i umieść na planszy obszar oceanu.",
+    "Action: Remove 1 asteroid here to place an ocean.": "Akcja: Wydaj 1 jednostkę asteroid z tej karty, aby umieścić na planszy obszar oceanu.",
     
-	"Cutting Edge Technology": "Nowoczesna technologia",
+	"Cutting Edge Technology": "Nowoczesna Technologia",
     "Effect: When playing a card with a requirement, you pay 2 M€ less for it.": "Efekt trwały: Gdy zagrywasz kartę z wymaganiami, płacisz za nią o 2 M€ mniej.",
     
-	"Crash Site Cleanup": "Porzątkowanie miejsca zderzenia",
-    "Requires that a player removed ANOTHER PLAYER's plants this generation. Gain 1 titanium or 2 steel.": "Jakiś gracz spowodował, że inny gracz musiał stracić jednostki roślinności w tym pokoleniu. Otrzymujesz 1 jednostkę tytanu lub 2 jednostki stali.",
+	"Crash Site Cleanup": "Porządkowanie Strefy Zderzenia",
+    "Requires that a player removed ANOTHER PLAYER's plants this generation. Gain 1 titanium or 2 steel.": "Możesz zagrać te kartę, jeśli którykolwiek z graczy spowodował, że inny gracz musiał stracić w tym pokoleniu jednostki roślinności. Otrzymujesz 1 jednostkę tytanu lub 2 jednostki stali.",
     
-	"Directed Impactors": "Sterowane uderzenia",
-    "(Action: Spend 6 M€ to add 1 asteroid to ANY CARD (titanium may be used to pay for this).)": "(Akcja: Wydaj 6 M€ (możesz użyć tytanu), aby umieścić 1 jednostkę asteroid na dowolnej karcie.)",
-    "(Action: Remove 1 asteroid here to raise temperature 1 step.)": "(Akcja: Wydaj 1 jednostkę asteroid z tej karty i podnieś temperaturę o 2°C.)",
+	"Directed Impactors": "Sterowane Uderzenia",
+    "(Action: Spend 6 M€ to add 1 asteroid to ANY CARD (titanium may be used to pay for this).)": "Akcja: Wydaj 6 M€ (możesz użyć tytanu), aby umieścić 1 jednostkę asteroid na dowolnej karcie.",
+    "(Action: Remove 1 asteroid here to raise temperature 1 step.)": "Akcja: Wydaj 1 jednostkę asteroid z tej karty, aby podnieść temperaturę o 1 poziom.)",
     
-	"Field-Capped City": "Miasto pod kopułą",
-    "(Increase your M€ production 2 steps, increase your energy production 1 step, gain 3 plants, and place a city tile.)": "(Podnieś swój poziom produkcji M€ o 2. Podnieś swój poziom produkcji energii o 1. Otrzymaj 3 jednostki roślinności. Umieść obszar miasta na planszy.)",
+	"Field-Capped City": "Miasto pod Kopułą",
+    "(Increase your M€ production 2 steps, increase your energy production 1 step, gain 3 plants, and place a city tile.)": "Podnieś swój poziom produkcji M€ o 2. Podnieś swój poziom produkcji energii o 1. Otrzymujesz 3 jednostki roślinności. Umieść na planszy obszar miasta.",
     
-	"Magnetic Shield": "Tarcza magnetyczna",
-    "3 Power": "3 symbole energii",
-    "(Requires 3 power tags. Raise your TR 4 steps.)": "(Musisz posiadać co najmniej 3 symbole energii. Podnieś swoj WT o 4.)",
+	"Magnetic Shield": "Tarcza Magnetyczna",
+    "3 Power": "3 symbole Energii",
+    "(Requires 3 power tags. Raise your TR 4 steps.)": "Musisz posiadać co najmniej 3 symbole energii. Podnieś swoj WT o 4 poziomy.",
     
 	"Meltworks": "Wytapialnia",
     "Action: Spend 5 heat to gain 3 steel.": "Akcja: Wydaj 5 jednostek ciepła, aby otrzymać 3 jednostki stali.",
     
 	"Mohole Lake": "Jezioro Mohole",
     "Action: Add a microbe or animal to ANOTHER card.": "Akcja: Umieść na innej karcie 1 jednostkę mikrobów lub 1 jednostkę zwierząt.",
-    "(Gain 3 plants. Raise temperature 1 step, and place 1 ocean tile.)": "(Otrzymaj 3 jednostki roślinności. Podnieś temperaturę o 1 poziom i umieść obszar oceanu na planszy)",
+    "(Gain 3 plants. Raise temperature 1 step, and place 1 ocean tile.)": "Otrzymujesz 3 jednostki roślinności. Podnieś temperaturę o 1 poziom i umieść obszar oceanu na planszy.",
     
-	"Diversity Support": "Wspieranie różnorodności",
+	"Diversity Support": "Wspieranie Różnorodności",
     "9 Resource types": "9 typów zasobów",
-    "(Requires that you have 9 different types of resources. Gain 1 TR.)": "(Musisz posiadać 9 różnych jednostek zasobów. Otrzymaj 1 WT.)",
+    "(Requires that you have 9 different types of resources. Gain 1 TR.)": "Musisz posiadać 9 różnych jednostek zasobów. Zwiększ swój WT o 1 poziom.)",
     
-	"Topsoil Contract": "Kontrakt glebotwórczy",
-    "(Effect: When you gain a microbe to ANY CARD, also gain 1 M€.)": "(Efekt: Kiedy na karcie kładziesz jednostkę mikroba, dostajesz również 1 M€.)",
-    "Gain 3 plants.": "Otrzymaj 3 rośliny",
+	"Topsoil Contract": "Kontrakt Glebotwórczy",
+    "(Effect: When you gain a microbe to ANY CARD, also gain 1 M€.)": "Efekt trwały: Gdy umieszczasz jednostkę mikrobów na dowolnej karcie otrzymujesz 1 M€.)",
+    "Gain 3 plants.": "Otrzymujesz 3 jednostki roślinności.",
     
-	"Imported Nutrients": "Importowane nawozy",
-    "(Gain 4 plants and add 4 microbes to ANOTHER CARD.)": "(Otrzymaj 4 jednostki roślin i dodaj 4 jednostki mikrobów na dowolną kartę)",
+	"Imported Nutrients": "Importowane Nawozy",
+    "(Gain 4 plants and add 4 microbes to ANOTHER CARD.)": "Otrzymujesz 4 jednostki roślinności. Umieść 4 jednostki mikrobów na dowolnej karcie.)",
     
-	"Asteroid Deflection System": "Zakrzywianie trajektorii asteroid",
-    "(Action: REVEAL AND DISCARD the top card of the deck. If it has a space tag, add an asteroid here.)": "(Akcja: Okryj i odrzuc kartę ze stosu. Jeśli ma symbol przestrzeni kosmicznej, dodaj 1 jednostę asteroid na tę kartę.)",
-    "opponents may not remove your plants": "Przeciwnicy nie mogą usuwać twoich roślin.",
-    "(Decrease your energy production 1 step. 1VP per asteroid on this card.)": "(Obniż swoją produkcję energii o 1 poziom. Otrzymujesz 1PZ za każdą asteroidę na tej karcię.)",
+	"Asteroid Deflection System": "Zakrzywianie Trajektorii Asteroid",
+    "(Action: REVEAL AND DISCARD the top card of the deck. If it has a space tag, add an asteroid here.)": "Akcja: Odkryj i odrzuć kartę. Jeśli ma symbol Przestrzeni Kosmicznej, umieść 1 jednostę asteroid na tej karcie.",
+    "opponents may not remove your plants": "Przeciwnicy nie mogą usuwać Twoich jednostek roślinności.",
+    "(Decrease your energy production 1 step. 1VP per asteroid on this card.)": "Obniż swoją produkcję energii o 1 poziom. Otrzymujesz 1 PZ za każdą jednostke asteroid na tej karcie.",
     
-	"Jovian Embassy": "Jowiańska ambasada",
-    "(Raise your TR 1 step.)": "(Podjnieś twój WT o 1 poziom)",
+	"Jovian Embassy": "Jowiańska Ambasada",
+    "(Raise your TR 1 step.)": "Podnieś swój WT o 1 poziom.",
     
-	"Sub-Crust Measurements": "Pomiary podpowierzniowe",
+	"Sub-Crust Measurements": "Pomiary Podpowierzniowe",
     "Action: Draw a card.": "Akcja: Dobierz 1 kartę.",
     
 	"Potatoes": "Ziemniaki",
     "Lose 2 plants. Increase your M€ production 2 steps.": "Wydaj 2 jednostki roślinności. Podnieś swoją produkcję M€ o 2 poziomy.",
     
-	"Meat Industry": "Przemysł mięsny",
+	"Meat Industry": "Przemysł Mięsny",
     "Effect: When you gain an animal to ANY CARD, gain 2 M€.": "Efekt trwały: Gdy umieszczasz jednostkę zwierząt na dowolnej karcie, otrzymujesz 2 M€.",
-    "Decrease your energy production 4 steps and increase your plant production 2 steps. Raise your TR 3 steps and place this tile.": "Obniż swój poziom produkcji energii o 4 poziomy i podnieś swój poziom produkcji roślinności o 2 poziomy. Podnieś swój WT o 3 poziomy i połóż ten kafelek.",
-    
+	    
 	"Orbital Cleanup": "Sprzątanie Orbitalne",
-    "Action: Gain 1 M€ per science tag you have.": "Akcja: Otrzymujesz 1 M€ za każdy posiadany symbol nauki.",
+    "Action: Gain 1 M€ per science tag you have.": "Akcja: Otrzymujesz 1 M€ za każdy posiadany symbol Nauki.",
     "Decrease your M€ production 2 steps.": "Obniż swoją produkcję M€ o 2 poziomy.",
+	
     "Law Suit": "Pozew",
-    "Steal 3 M€ from a player that REMOVED YOUR RESOURCES OR DECREASED YOUR PRODUCTION this generation. Place this card face down in THAT PLAYER'S EVENT PILE.": "Ukradnij 3 M€ graczowi, który podczas tego pokolenia OBNIŻYŁ TWOJĄ PRODUKCJĘ LUB USUNĄŁ TWOJE ZASOBY. Umieść tę kartę zakrytą na STOSIE WYDARZEŃ TEGO GRACZA.",
+    "Steal 3 M€ from a player that REMOVED YOUR RESOURCES OR DECREASED YOUR PRODUCTION this generation. Place this card face down in THAT PLAYER'S EVENT PILE.": "Ukradnij 3 M€ graczowi, który podczas tego pokolenia obniżył Twoją produkcję lub usunął Twoje zasoby. Umieść tę kartę na stosie wydarzeń tego gracza.",
     
 	"Small Asteroid": "Mała asteroida",
     "Increase temperature 1 step. Remove up to 2 plants from any player.": "Podnieś temperaturę o 2°C. Usuń do 2 jednostek roślinności dowolnego gracza.",
     
 	"Asteroid Hollowing": "Holowanie asteroid",
-    "Action: Spend 1 titanium to add 1 asteroid resource here and increase M€ production 1 step.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić tu 1 jednostkę asteroid i podnieść swoją produkcję M€ o 1 poziom.",
+    "Action: Spend 1 titanium to add 1 asteroid resource here and increase M€ production 1 step.": "Akcja: Wydaj 1 jednostkę tytanu, żeby umieścić tu 1 jednostkę asteroid i podnieść swoją produkcję M€ o 1 poziom.",
     "1VP for each 2 asteroids on this card.": "Otrzymujesz 1 PZ za każde 2 jednostki asteroid na tej karcie.",
     
 	"Advertising": "Reklama",
