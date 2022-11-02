@@ -15,7 +15,7 @@
 
     "Bioengineering Enclosure": "Sektor Bioinżynierii",
     "Action: Remove 1 animal from THIS card to add 1 animal to ANOTHER card.": "Akcja: Usuń 1 jednostkę zwierząt z tej karty, aby umieścić 1 jednostkę zwierząt na dowolnej karcie.",
-    "Requires 1 science tag to play. Add 2 animals to this card. OTHERS MAY NOT REMOVE ANIMALS FROM THIS CARD.": "Musisz posiadać przynajmniej 1 symbol Nauki. Umieść na tej karcie 2 jednostki zwierząt. PRZECIWNICY NIE MOGĄ USUWAĆ JEDNOSTEK ZWIERZĄT Z TEJ KARTY.",
+    "Requires 1 science tag to play. Add 2 animals to this card. OTHERS MAY NOT REMOVE ANIMALS FROM THIS CARD.": "Musisz posiadać co najmniej 1 symbol Nauki. Umieść na tej karcie 2 jednostki zwierząt. PRZECIWNICY NIE MOGĄ USUWAĆ JEDNOSTEK ZWIERZĄT Z TEJ KARTY.",
 
     "Butterfly Effect": "Efekt Motyla",
     "Gain 1 TR. Move each individual hazard marker up to 1 step up or down.": "Przesuń każdy ze znaczników zagrożenia maksymalnie o 1 poziom w górę lub w dół. Podnieś swój WT o 1 poziom.",
@@ -29,7 +29,7 @@
     "Ecological Survey": "Badania Ekologiczne",
     "Any 3 Greeneries": "3 obszary zieleni",
     "Effect: When placing a tile grants you any plants, animals or microbes, you gain one additional of each of those resources that you gain.": "Efekt trwały: Gdy umieszczasz dowolny obszar na planszy i otrzymujesz zasoby roślinności, zwierząt lub mikrobów, otrzymujesz 1 dodatkową jednostkę z każdego zdobytego rodzaju zasobów.",
-    "Requires 3 greeneries on Mars.": "Na planszy muszą znajdować się przynajmniej 3 obszary zieleni.",
+    "Requires 3 greeneries on Mars.": "Na planszy muszą znajdować się co najmniej 3 obszary zieleni.",
 
     "Mining Rights": "Prawa Górnicze",
     "Place one of these tiles on an area with a steel or titanium placement bonus. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar na polu zawierającym premię stali lub tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
@@ -57,20 +57,20 @@
     "Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.": "Musisz posiadać min. 1 obszar zieleni. Umieść ten obszar obok obszaru zieleni.",
 
     "Bio-Fertilizer Facility": "Ośrodek Eko Nawożenia",
-    "Requires 1 science tag. Increase your plant production 1 step. Add up to 2 microbes to ANY card. Place this tile which grants an ADJACENCY BONUS of 1 plant and 1 microbe.": "Musisz posiadać przynajmniej 1 symbol Nauki. Podnieś swoją produkcję roślinności o 1 poziom. Umieść 2 jednostki mikrobów na dowolnej karcie. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje po 1 jednostce roślinności i mikrobów.",
+    "Requires 1 science tag. Increase your plant production 1 step. Add up to 2 microbes to ANY card. Place this tile which grants an ADJACENCY BONUS of 1 plant and 1 microbe.": "Musisz posiadać co najmniej 1 symbol Nauki. Podnieś swoją produkcję roślinności o 1 poziom. Umieść 2 jednostki mikrobów na dowolnej karcie. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje po 1 jednostce roślinności i mikrobów.",
 
     "Metallic Asteroid": "Metaliczna Asteroida",
     "Raise temperature 1 step and gain 1 titanium. Remove up to 4 plants from any player. Place this tile which grants an ADJACENCY BONUS of 1 titanium.": "Podnieś temperaturę o 2°C. Otrzymujesz 1 jednostkę tytanu. Usuń do 4 jednostek roślinności dowolnego gracza. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 jednostkę tytanu.",
 
     "Ocean Farm": "Farma Morska",
-    "Requires 4 ocean tiles. Increase your heat production 1 step and increase your plant production 1 step. Place this tile on top of an existing ocean tile. The tile grants an ADJACENCY BONUS of 1 plant.": "Na planszy muszą znajdować się przynajmniej 4 obszary oceanów. Podnieś swoją produkcję roślinności i ciepła o 1 poziom. Umieść ten obszar na istniejącym obszarze oceanu. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 jednostkę roślinności.",
+    "Requires 4 ocean tiles. Increase your heat production 1 step and increase your plant production 1 step. Place this tile on top of an existing ocean tile. The tile grants an ADJACENCY BONUS of 1 plant.": "Na planszy muszą znajdować się co najmniej 4 obszary oceanów. Podnieś swoją produkcję roślinności i ciepła o 1 poziom. Umieść ten obszar na istniejącym obszarze oceanu. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 jednostkę roślinności.",
 
     "Commercial District": "Dystrykt Handlowy",
     "1 VP per adjacent city tile.": "1 PZ ZA KAŻDY OBSZAR MIASTA OBOK TEGO OBSZARU.",
     "Place this tile which grants an ADJACENCY BONUS of 2 M€. Decrease your energy production 1 step and increase your M€ production 4 steps.": "Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję M€ o 4 poziomy. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 M€.",
 
     "Ocean City": "Miasto na Oceanie",
-    "Requires 6 ocean tiles. Decrease your energy production 1 step and increase your M€ production 3 steps. Place this tile on top of an existing ocean tile, IGNORING NORMAL PLACEMENT RESTRICTIONS FOR CITIES. The tile counts as a city as well as an ocean.": "Na planszy musi znajdować się przynajmniej 6 obszarów oceanów. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję M€ o 3 poziomy. Umieść ten specjalny obszar miasta na istniejącym obszarze oceanu, ignorując normalne ograniczenia umieszczania miast. Ten obszar liczy się jako obszar miasta i obszar oceanu.",
+    "Requires 6 ocean tiles. Decrease your energy production 1 step and increase your M€ production 3 steps. Place this tile on top of an existing ocean tile, IGNORING NORMAL PLACEMENT RESTRICTIONS FOR CITIES. The tile counts as a city as well as an ocean.": "Na planszy musi znajdować się co najmniej 6 obszarów oceanów. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję M€ o 3 poziomy. Umieść ten specjalny obszar miasta na istniejącym obszarze oceanu, ignorując normalne ograniczenia umieszczania miast. Ten obszar liczy się jako obszar miasta i obszar oceanu.",
 
     "Lava Flows": "Strumienie Lawy",
     "Raise temperature 2 steps and place this tile ON EITHER THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS OR ARSIA MONS. This tile grants an ADJACENCY BONUS of 2 heat.": "Podnieś temperaturę o 4°C. Umieść ten obszar na jednym z wymienionych obszarów: THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS, ARSIA MONS. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 jednostki ciepła.",
