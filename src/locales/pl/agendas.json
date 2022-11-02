@@ -6,7 +6,7 @@
    "When you place a tile ON MARS, gain 1 steel": "Gdy umieszczasz NA MARSIE dowolny obszar otrzymujesz 1 jednostkę stali",
    "When you play a building tag, gain 2 M€": "Gdy zagrywasz symbol budowli otrzymujesz 2 M€",
    "Your steel resources are worth 1 M€ extra": "Twoje jednostki stali są warte 1 M€ więcej",
-   "Spend 4 M€ to draw a Building card (Turmoil Mars First)": "Wydaj 4 M€, żeby dobrać kartę z symbolem budowli",
+   "Spend 4 M€ to draw a Building card (Turmoil Mars First)": "Wydaj 4 M€, aby dobrać kartę z symbolem budowli",
 
    "Select a Scientists bonus.": "Wybierz bonus partii Naukowcy.",
    "Gain 1 M€ for each science tag you have": "Zdobądź 1 M€ za każdy posiadany symbol nauki",
@@ -21,8 +21,8 @@
    "Gain 1 M€ for each Space tag you have": "Zdobądź 1 M€ za każdy posiadany symbol Przestrzeni Kosmicznej",
    "Select a Unity policy.": "Wybierz program polityczny partii Jedność.",
    "Your titanium resources are worth 1 M€ extra": "Twoje jednostki tytanu są warte 1 M€ więcej",
-   "Spend 4 M€ to gain 2 titanium or add 2 floaters to ANY card (Turmoil Unity)": "Wydaj 4 M€, żeby zdobyć 2 jednostki tytanu LUB umieść 2 jednostki Dryfowców na dowolnej karcie ",
-   "Spend 4 M€ to draw a Space card (Turmoil Unity)": "Wydaj 4 M€, żeby dobrać kartę z symbolem Przestrzeni Kosmicznej",
+   "Spend 4 M€ to gain 2 titanium or add 2 floaters to ANY card (Turmoil Unity)": "Wydaj 4 M€, aby zdobyć 2 jednostki tytanu LUB umieść 2 jednostki Dryfowców na dowolnej karcie ",
+   "Spend 4 M€ to draw a Space card (Turmoil Unity)": "Wydaj 4 M€, aby dobrać kartę z symbolem Przestrzeni Kosmicznej",
    "Cards with Space tags cost 2 M€ less to play": "Karty z symbolem Przestrzeni Kosmicznej podczas zagrywania kosztują 2 M€ mniej",
 
    "Select a Greens bonus.": "Wybierz bonus partii Zieloni.",
@@ -32,7 +32,7 @@
    "When you place a greenery tile, gain 4 M€": "Kiedy umieszczasz obszar zieleni na planszy otrzymujesz 4 M€",
    "When you place a tile, gain 1 plant": "Kiedy umieszczasz obszar na planszy otrzymujesz 1 jednostkę zieleni",
    "When you play an animal, plant or microbe tag, gain 2 M€": "Kiedy zaqgrywasz kartę z symbolem Zwierząt, Roślin lub Mikrobów otrzymujesz 2 M€",
-   "Spend 5 M€ to gain 3 plants or add 2 microbes to ANY card (Turmoil Greens)": "Wydaj 5 M€, żeby otrzymać 3 jednostki zieleni lub umieścić 2 jednostki mikrobów na dowolnej karcie",
+   "Spend 5 M€ to gain 3 plants or add 2 microbes to ANY card (Turmoil Greens)": "Wydaj 5 M€, aby otrzymać 3 jednostki zieleni lub umieścić 2 jednostki mikrobów na dowolnej karcie",
 
    "Select a Reds bonus.": "Wybierz bonus partii Czerwoni.",
    "The player(s) with the lowest TR gains 1 TR": "Gracz(e) z najniższym poziomem WT otrzymuje/ą 1 WT",
@@ -40,15 +40,15 @@
    "Select a Reds policy.": "Wybierz program polityczny partii Czerwoni.",
    "When you take an action that raises TR, you MUST pay 3 M€ per step raised": "Kiedy wykonujesz akcję, która zwiększa Twój WT MUSISZ zapłacić 3 M€ za każdy zwiększany poziom WT",
    "When you place a tile, pay 3 M€ or as much as possible": "Kiedy umieszczasz obszar na planszy, musisz zapłacić 3 M€ lub tyle ile jesteś w stanie",
-   "Pay 4 M€ to reduce a non-maxed global parameter 1 step (do not gain any track bonuses)": "Wydaj 4 M€, żeby obniżyć dowolny wskaźnik globalny, który nie osiągnął maksymalnego poziomu o 1 (nie otrzymujesz bonusów z obniżonego pola)",
+   "Pay 4 M€ to reduce a non-maxed global parameter 1 step (do not gain any track bonuses)": "Wydaj 4 M€, aby obniżyć dowolny wskaźnik globalny, który nie osiągnął maksymalnego poziomu o 1 (nie otrzymujesz bonusów z obniżonego pola)",
    "When you raise a global parameter, decrease your M€ production 1 step per step raised if possible": "Kiedy zwiększasz dowolny wskaźnik globalny, musisz obniżyć produkcję M€ o 1 za każdy zwiększany poziom (jeśli to możliwe)",
 
    "Select a Kelvinists bonus.": "Wybierz bonus partii Kelwiniści.",
    "Gain 1 M€ for each heat production you have": "Zdobądź 1 M€ za każdy posiadany poziom produkcji ciepła",
    "Gain 1 heat for each heat production you have": "Zdobądź 1 jednostkę ciepła za każdy posiadany poziom produkcji ciepła",
    "Select a Kelvinists policy.": "Wybierz program polityczny partii Kelwiniści.",
-   "Pay 10 M€ to increase your energy and heat production 1 step (Turmoil Kelvinists)": "Wydaj 10 M€, żeby podnieść o 1 poziom produkcję energii oraz ciepła",
+   "Pay 10 M€ to increase your energy and heat production 1 step (Turmoil Kelvinists)": "Wydaj 10 M€, aby podnieść o 1 poziom produkcję energii oraz ciepła",
    "When you raise temperature, gain 3 M€ per step raised": "Kiedy zwiększasz poziom temperatury otrzymujesz 3 M€ za każdy podniesiony poziom",
-   "Convert 6 heat into temperature (Turmoil Kelvinists)": "Wydaj 6 jednostek ciepła żeby zwiększyć temperaturę o 1 poziom",
+   "Convert 6 heat into temperature (Turmoil Kelvinists)": "Wydaj 6 jednostek ciepła aby zwiększyć temperaturę o 1 poziom",
    "When you place a tile, gain 2 heat": "Kiedy umieszczasz obszar na planszy otrzymujesz 2 jednostki ciepła"
  }
