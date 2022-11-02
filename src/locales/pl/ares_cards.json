@@ -1,9 +1,9 @@
 {
     "Desperate Measures": "Desperackie Środki",
-    "Place a bronze cube on a dust storm tile and raise oxygen 1 step, or place a bronze cube on an erosion tile and raise the temperature 1 step. The hazard tile with the bronze cube cannot be removed.": "Umieść brązową kostkę na kaflu burzy pyłowej i podnieś Poziom Tlenu o 1% albo umieść brązową kostkę na kaflu erozji i podnieś Temperaturę o 2°C. Kafel zagrożenia z brązową kostką nie może zostać usunięty.",
+    "Place a bronze cube on a dust storm tile and raise oxygen 1 step, or place a bronze cube on an erosion tile and raise the temperature 1 step. The hazard tile with the bronze cube cannot be removed.": "Umieść brązową kostkę na kaflu burzy pyłowej i podnieś Poziom Tlenu o 1% lub umieść brązową kostkę na kaflu erozji i podnieś Temperaturę o 2°C. Kafel zagrożenia z brązową kostką nie może zostać usunięty.",
 
     "Mining Area": "Obszar Górniczy",
-    "Place one of these tiles on an area with a steel or titanium placement bonus, ADJACENT TO ANOTHER OF YOUR TILES. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar obok innych swoich obszarów, na polu zawierającym premię stali albo tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
+    "Place one of these tiles on an area with a steel or titanium placement bonus, ADJACENT TO ANOTHER OF YOUR TILES. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar obok innych swoich obszarów, na polu zawierającym premię stali lub tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
 
     "Industrial Center": "Ośrodek Przemysłowy",
     "Action: Spend 7 M€ to increase your steel production 1 step.": "Akcja: Wydaj 7 M€, aby podnieś swoją produkcję stali o 1 poziom.",
@@ -32,10 +32,10 @@
     "Requires 3 greeneries on Mars.": "Na planszy muszą znajdować się przynajmniej 3 obszary zieleni.",
 
     "Mining Rights": "Prawa Górnicze",
-    "Place one of these tiles on an area with a steel or titanium placement bonus. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar na polu zawierającym premię stali albo tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
+    "Place one of these tiles on an area with a steel or titanium placement bonus. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar na polu zawierającym premię stali lub tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
 
     "Natural Preserve": "Rezerwat Naturalny",
-    "Oxygen must be 4% or less. Place this tile NEXT TO NO OTHER TILE. The tile grants an ADJACENCY BONUS of of 1 M€. Increase your M€ production 1 step.": "Poziom Tlenu musi być równy albo niższy niż 4%. Umieść ten obszar na polu niesąsiadującym z innymi obszarami. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 M€. Podnieś swoją produkcję M€ o 1 poziom.",
+    "Oxygen must be 4% or less. Place this tile NEXT TO NO OTHER TILE. The tile grants an ADJACENCY BONUS of of 1 M€. Increase your M€ production 1 step.": "Poziom Tlenu musi być równy lub niższy niż 4%. Umieść ten obszar na polu niesąsiadującym z innymi obszarami. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 M€. Podnieś swoją produkcję M€ o 1 poziom.",
 
     "Ocean Sanctuary": "Sanktuarium Oceaniczne",
     "1 VP per animal on this card.": "1 PZ za każdą jednostkę zwierząt na karcie.",

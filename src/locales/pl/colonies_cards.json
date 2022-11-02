@@ -7,7 +7,7 @@
 
     "Atmo Collectors": "Zagarniacze Atmosfery",
     "Action: Add one floater here.": "Akcja: Umieść 1 jednostkę dryfowców na tej karcie.",
-    "Action: Spend 1 floater here to gain 2 titanium, or 3 energy, or 4 heat.": "Akcja: Wydaj z tej karty 1 jednostkę dryfowców, aby otrzymać 2 jednostki tytanu, 3 jednostki energii albo 4 jednostki ciepła.",
+    "Action: Spend 1 floater here to gain 2 titanium, or 3 energy, or 4 heat.": "Akcja: Wydaj z tej karty 1 jednostkę dryfowców, aby otrzymać 2 jednostki tytanu, 3 jednostki energii lub 4 jednostki ciepła.",
     "Add 2 floaters to ANY card.": "Umieść 2 jednostki dryfowców na dowolnej karcie.",
 
     "Community Services": "Usługi Społeczne",
@@ -66,7 +66,7 @@
     "Requires 3 Earth tags. Increase your M€ production 2 steps.": "Musisz posiadać przynajmniej 3 symbole Ziemi. Podnieś swoją produkcję M€ o 2 poziomy.",
 
     "Lunar Exports": "Księżycowe Towary Eksportowe",
-    "Increase your plant production 2 steps, or your M€ production 5 steps.": "Podnieś swoją produkcję roślinności o 2 poziomy albo produkcję M€ o 5 poziomów.",
+    "Increase your plant production 2 steps, or your M€ production 5 steps.": "Podnieś swoją produkcję roślinności o 2 poziomy lub produkcję M€ o 5 poziomów.",
 
     "Lunar Mining": "Górnictwo Księżycowe",
     "Increase your titanium production 1 step for every 2 Earth tags you have in play, including this.": "Podnieś swoją produkcję tytanu o 1 poziom za każde 2 posiadane symbole Ziemi (z tym włącznie).",
@@ -101,7 +101,7 @@
     "Requires 4 science tags. Increase your M€ production 1 step for each colony in play.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję M€ o 1 poziom za każdą kolonię w grze.",
 
     "Red Spot Observatory": "Obserwatorium Wielkiej Czerwonej Plamy",
-    "Action: Add 1 floater to this card, or spend 1 floater here to draw a card.": "Akcja: Umieść na tej karcie 1 jednostkę dryfowców albo wydaj 1 jednostkę dryfowców z tej karty, aby dobrać 1 kartę.",
+    "Action: Add 1 floater to this card, or spend 1 floater here to draw a card.": "Akcja: Umieść na tej karcie 1 jednostkę dryfowców lub wydaj 1 jednostkę dryfowców z tej karty, aby dobrać 1 kartę.",
     "Requires 3 science tags. Draw 2 cards.": "Musisz posiadać przynajmniej 3 symbole nauki. Dobierz 2 karty.",
 
     "Refugee Camps": "Obozy Uchodźców",
@@ -138,14 +138,14 @@
     "Sub-zero Salt Fish": "Słonowodne Ryby Zimnolubne",
     "Action: Add 1 animal to this card.": "Akcja: Umieść na tej karcie 1 jednostkę zwierząt.",
     "1 VP per 2 animals on this card.": "Otrzymujesz 1 PZ za każde 2 jednostki zwierząt znajdujące się na tej karcie.",
-    "Requires -6 C. Decrease any plant production 1 step.": "Temperatura musi być równa albo wyższa niż -6°C. Obniż produkcję roślinności dowolnego gracza o 1 poziom.",
+    "Requires -6 C. Decrease any plant production 1 step.": "Temperatura musi być równa lub wyższa niż -6°C. Obniż produkcję roślinności dowolnego gracza o 1 poziom.",
 
     "Titan Air-scrapping": "Zagarnianie Atmosfery na Tytanie",
     "Action: Spend 1 titanium to add 2 floaters here.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić na tej karcie 2 jednostki dryfowców.",
     "Action: Spend 2 floaters here to increase your TR 1 step.": "Akcja: Wydaj 2 jednostki dryfowców z tej karty, aby podnieść swój WT o 1 poziom.",
 
     "Titan Floating Launch-pad": "Dryfujące Lądowisko na Tytanie",
-    "Action: Add 1 floater to ANY JOVIAN CARD or spend 1 floater here to trade for free.": "Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie z symbolem Jowisza albo wydaj 1 jednostkę dryfowców z tej karty, aby wykonać akcję handlu z obiektem za darmo.",
+    "Action: Add 1 floater to ANY JOVIAN CARD or spend 1 floater here to trade for free.": "Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie z symbolem Jowisza lub wydaj 1 jednostkę dryfowców z tej karty, aby wykonać akcję handlu z obiektem za darmo.",
     "Add two floaters to ANY JOVIAN CARD.": "Umieść 2 jednostki dryfowców na dowolnej karcie z symbolem Jowisza.",
 
     "Titan Shuttles": "Wahadłowce na Tytanie",
