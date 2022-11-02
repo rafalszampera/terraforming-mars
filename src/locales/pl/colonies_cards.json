@@ -14,7 +14,7 @@
     "Increase your M€ production 1 step per CARD WITH NO TAGS, including this.": "Podnieś swoją produkcję M€ o 1 poziom za każdą posiadaną kartę bez symboli (z tą włącznie).",
 
     "Conscription": "Pobór",
-    "Requires 2 Earth tags. The next card you play this generation costs 16 M€ less.": "Musisz posiadać przynajmniej 2 symbole ziemi. Następna zagrana przez Ciebie podczas tego pokolenia karta będzie kosztować o 16 M€ mniej.",
+    "Requires 2 Earth tags. The next card you play this generation costs 16 M€ less.": "Musisz posiadać przynajmniej 2 symbole Ziemi. Następna karta zagrana przez Ciebie podczas tego pokolenia będzie kosztować o 16 M€ mniej.",
 
     "Corona Extractor": "Ekstraktor Korony",
     "Requires 4 science tags. Increase your energy production 4 steps.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję energii o 4 poziomy.",
@@ -32,7 +32,7 @@
     "Increase your M€ production 1 step PER 3 floaters you have.": "Podnieś swoją produkcję M€ o 1 poziom za każde 3 posiadane jednostki dryfowców.",
 
     "Floater Prototypes": "Prototypy Dryfowców",
-    "Add two floaters to ANOTHER card.": "Umieść na innej karcie do 2 jednostek dryfowców.",
+    "Add two floaters to ANOTHER card.": "Umieść na innej karcie 2 jednostki dryfowców.",
 
     "Floater Technology": "Technologia Dryfowców",
     "Action: Add 1 floater to ANOTHER card.": "Akcja: Umieść na innej karcie 1 jednostkę dryfowców.",
@@ -44,7 +44,7 @@
     "Requires 2 Earth tags. Increase your M€ production 2 steps, and gain 4 M€.": "Musisz posiadać przynajmniej 2 symbole Ziemi. Podnieś swoją produkcję M€ o 2 poziomy. Otrzymujesz 4 M€.",
 
     "Ice Moon Colony": "Kolonia na Księżycu Lodowym",
-    "Place 1 colony and 1 ocean tile.": "Umieść 1 kolonię na kaflu obiektu oraz obszar oceanu na planszy.",
+    "Place 1 colony and 1 ocean tile.": "Umieść 1 kolonię na kaflu obiektu oraz 1 obszar oceanu na planszy.",
 
     "Impactor Swarm": "Rój Planetoid",
     "Requires 2 Jovian tags. Gain 12 heat. Remove up to 2 plants from any player.": "Musisz posiadać przynajmniej 2 symbole Jowisza. Otrzymujesz 12 jednostek ciepła. Usuń do 2 jednostek roślinności dowolnego gracza.",
@@ -53,9 +53,9 @@
     "Place a colony.": "Umieść 1 kolonię na kaflu obiektu.",
 
     "Jovian Lanterns": "Reflektory Atmosferyczne",
-    "Action: Spend 1 titanium to add 2 floaters here.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić na tej karcie 2 jednostki dryfowców.",
     "1 VP per 2 floaters here.": "1 PZ za każde 2 jednostki dryfowców na tej karcie.",
     "Requires 1 Jovian tag. Increase your TR 1 step. Add 2 floaters to ANY card.": "Musisz posiadać przynajmniej 1 symbol Jowisza. Podnieś swój WT o 1 poziom. Umieść 2 jednostki dryfowców na dowolnej karcie.",
+	"Action: Spend 1 titanium to add 2 floaters here.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić na tej karcie 2 jednostki dryfowców.",
 
     "Jupiter Floating Station": "Stacja Dryfowa na Jowiszu",
     "Action: Add 1 floater to a JOVIAN CARD.": "Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie z symbolem Jowisza.",
@@ -72,7 +72,7 @@
     "Increase your titanium production 1 step for every 2 Earth tags you have in play, including this.": "Podnieś swoją produkcję tytanu o 1 poziom za każde 2 posiadane symbole Ziemi (z tym włącznie).",
 
     "Market Manipulation": "Manipulacja Rynkiem",
-    "Increase one colony tile track 1 step. Decrease another colony tile track 1 step.": "PRZESUŃ BIAŁY ZNACZNIK DOWOLNEGO OBIEKTU O 1 POLE W PRAWO NA TORZE KOLONII. PRZESUŃ BIAŁY ZNACZNIK DOWOLNEGO OBIEKTU O 1 POLE W LEWO NA TORZE KOLONII.",
+    "Increase one colony tile track 1 step. Decrease another colony tile track 1 step.": "Przesuń biały znacznik dowolnego obiektu o 1 pole w prawo na torze kolonii. Przesuń biały znacznik dowolnego obiektu o 1 pole w lewo na torze kolonii.",
 
     "Martian Zoo": "Marsjańskie Zoo",
     "Effect: When you play an Earth tag, place an animal here.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Ziemi, umieść na tej karcie 1 jednostkę zwierząt.",
@@ -95,7 +95,7 @@
     "Requires that you have no more than 1 colony. Decrease your M€ production 2 steps. Place a colony.": "Wymagania: Możesz mieć maksymalnie 1 kolonię. Obniż swoją produkcję M€ o 2 poziomy i umieść 1 kolonię na kaflu obiektu.",
 
     "Productive Outpost": "Wydajna Placówka",
-    "Gain all your colony bonuses.": "OTRZYMUJESZ PREMIĘ KOLONIALNĄ ZA WSZYSTKIE SWOJE KOLONIE.",
+    "Gain all your colony bonuses.": "Otrzymujesz premię kolonialną za wszystkie swoje kolonie.",
 
     "Quantum Communications": "Komunikacja Kwantowa",
     "Requires 4 science tags. Increase your M€ production 1 step for each colony in play.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję M€ o 1 poziom za każdą kolonię w grze.",

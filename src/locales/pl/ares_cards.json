@@ -1,5 +1,4 @@
 {
-
     "Desperate Measures": "Desperackie Środki",
     "Place a bronze cube on a dust storm tile and raise oxygen 1 step, or place a bronze cube on an erosion tile and raise the temperature 1 step. The hazard tile with the bronze cube cannot be removed.": "Umieść brązową kostkę na kaflu burzy pyłowej i podnieś Poziom Tlenu o 1% albo umieść brązową kostkę na kaflu erozji i podnieś Temperaturę o 2°C. Kafel zagrożenia z brązową kostką nie może zostać usunięty.",
 
@@ -80,7 +79,6 @@
     "Increase your heat production 4 steps. Place this tile ON AN AREA RESERVED FOR OCEAN. The tile grants an ADJACENCY BONUS of 2 heat.": "Umieść ten obszar na polu zarezerwowanym dla oceanu. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 jednostki ciepła. Podnieś swoją produkcję ciepła o 4 poziomy.",
 
     "Capital": "Stolica",
-    "1 additional VP for each ocean tile adjacent to this city tile.": "OTRZYMUJESZ PO 1 PZ ZA KAŻDY OBSZAR OCEANU SĄSIADUJĄCY Z TYM OBSZAREM.",
+    "1 additional VP for each ocean tile adjacent to this city tile.": "Otrzymujesz po 1 PZ za każdy obszar oceanu sąsiadujący z tym obszarem.",
     "Requires 4 ocean tiles. Place tile with ADJACENCY BONUS of 2 M€. Energy prod -2 and M€ prod +5.": "Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 M€."
-
 }
