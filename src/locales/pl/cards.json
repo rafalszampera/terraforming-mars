@@ -12,7 +12,7 @@
     "Requires 3 ocean tiles. Decrease your M€ production 1 step and any heat production 1 step. Increase your plant production 2 steps.": "Na planszy muszą się znajdować przynajmniej 3 obszary oceanów. Obniż swoją produkcję M€ i produkcję ciepła dowolnego gracza o 1 poziom. Podnieś swoją produkcję roślinności o 2 poziomy.",
 
     "Search For Life": "Poszukiwania Życia",
-    "Action: Spend 1 M€ to reveal the top card of the draw deck. If that card has a microbe tag, add a science resource here.": "Akcja: Zapłać 1 M€, żeby odkryć i odrzucić wierzchnią kartę z talii. Jeśli odkryjesz kartę z symbolem mikrobów, umieść tu 1 jednostkę nauki.",
+    "Action: Spend 1 M€ to reveal the top card of the draw deck. If that card has a microbe tag, add a science resource here.": "Akcja: Wydaj 1 M€, żeby odkryć i odrzucić wierzchnią kartę z talii. Jeśli odkryjesz kartę z symbolem mikrobów, umieść tu 1 jednostkę nauki.",
     "3 VPs if you have one or more science resources here.": "Jeśli na tej karcie znajduje się przynajmniej 1 jednostka nauki, otrzymujesz 3 PZ",
     "Oxygen must be 6% or less.": "Poziom Tlenu musi wynosić maximum 6%.",
 
@@ -36,7 +36,7 @@
     "Raise temperature 2 steps and gain 4 titanium. Remove up to 4 plants from any player.": "Podnieś Temperaturę o 4°C. Otrzymujesz 4 jednostki tytanu. Usuń do 4 jednostek roślinności dowolnego gracza.",
 
     "Water Import From Europa": "Import Wody z Europy",
-    "Action: Pay 12 M€ to place an ocean tile. TITANIUM MAY BE USED as if playing a space card.": "Akcja: Zapłać 12 M€, żeby umieścić na planszy obszar oceanu. Możesz użyć jednostek tytanu, tak jakbyś zagrywał kartę z symbolem przestrzeni kosmicznej.",
+    "Action: Pay 12 M€ to place an ocean tile. TITANIUM MAY BE USED as if playing a space card.": "Akcja: Wydaj 12 M€, żeby umieścić na planszy obszar oceanu. Możesz użyć jednostek tytanu, tak jakbyś zagrywał kartę z symbolem przestrzeni kosmicznej.",
     "1 VP for each Jovian tag you have.": "Otrzymujesz po 1 PZ za każdy posiadany symbol Jowisza.",
 
     "Space Elevator": "Winda Kosmiczna",
@@ -393,7 +393,7 @@
     "Remove up to 3 titanium from any player, or 4 steel, or 7 M€.": "Usuń do 3 jednostek tytanu albo do 4 jednostek stali, albo do 7 M€ dowolnego gracza.",
 
     "Moss": "Mech",
-    "Requires 3 ocean tiles and that you lose 1 plant. Increase your plant production 1 step.": "Na planszy muszą znajdować się przynajmniej 3 obszary oceanów. Tracisz 1 jednostkę roślinności. Podnieś swoją produkcję roślinności o 1 poziom.",
+    "Requires 3 ocean tiles and that you lose 1 plant. Increase your plant production 1 step.": "Na planszy muszą znajdować się przynajmniej 3 obszary oceanów. Wydaj 1 jednostkę roślinności. Podnieś swoją produkcję roślinności o 1 poziom.",
 
     "Industrial Center": "Ośrodek Przemysłowy",
     "Action: Spend 7 M€ to increase your steel production 1 step.": "Akcja: Wydaj 7 M€, żeby podnieść swoją produkcję stali o 1 poziom.",
