@@ -125,7 +125,7 @@
     "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Podnieś swój współczynnik terraformacji o 2. Podnieś Temperaturę o 2°C. Podnieś swoją produkcję roślinności o 1 poziom albo, jesli posiadasz 3 symbole roślinności, o 4 poziomy.",
 
     "Rover Construction": "Fabryka Łazików",
-    "Effect: When any city tile is placed, gain 2 M€.": "Efekt trwały: Za każdym razem, gdy któryś z graczy umieści na planszy obszar miasta, otrzymujesz 2 M€.",
+    "Effect: When any city tile is placed, gain 2 M€.": "Efekt trwały: Gdy któryś z graczy umieści na planszy obszar miasta, otrzymujesz 2 M€.",
 
     "Deimos Down": "Upadek Deimosa",
     "Raise temperature 3 steps and gain 4 steel. Remove up to 8 plants from any player.": "Podnieś Temperaturę o 6°C. Otrzymujesz 4 jednostki stali. Usuń do 8 jednostek roślinności dowolnego gracza.",
@@ -476,7 +476,7 @@
     "Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps.": "Na planszy muszą znajdować się przynajmniej 3 obszary oceanów.",
 
     "Herbivores": "Roślinożercy",
-    "Effect: When you place a greenery tile, add an animal to this card.": "Efekt trwały: Za każdym razem, gdy umieścisz na planszy obszar zieleni, umieść na tej karcie 1 jednostkę zwierząt.",
+    "Effect: When you place a greenery tile, add an animal to this card.": "Efekt trwały: Gdy umieścisz na planszy obszar zieleni, umieść na tej karcie 1 jednostkę zwierząt.",
     "1 VP per 2 animals on this card.": "1 PZ za każde 2 jednostki zwierząt na tej karcie.",
     "Requires 8% oxygen. +1 animal to this card. -1 any plant production": "Poziom Tlenu musi być równy lub wyższy niż 8%. Umieść na tej karcie 1 jednostkę zwierząt. Obniż produkcję roślinności dowolnego gracza o 1 poziom.",
 
@@ -507,7 +507,7 @@
     "It must be -14 C or colder. Increase your plant production 2 steps.": "Temperatura musi być równa lub niższa niż -14°C. Podnieś swoją produkcję roślinności o 2 poziomy.",
 
     "Standard Technology": "Standardowa Technologia",
-    "Effect: After you pay for a standard project, except selling patents, you gain 3 M€.": "Efekt trwały: Za każdym razem, gdy zapłacisz za projekt standardowy (nie licząc sprzedaży patentów), otrzymasz 3 M€.",
+    "Effect: After you pay for a standard project, except selling patents, you gain 3 M€.": "Efekt trwały: Gdy zapłacisz za projekt standardowy (nie licząc sprzedaży patentów), otrzymasz 3 M€.",
 
     "Nitrite Reducing Bacteria": "Bakterie Rozkładające Azotany",
     "Action: Add 1 microbe to this card.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów.",
@@ -560,7 +560,7 @@
     "Pets": "Zwierzęta Domowe",
     "Animals may not be removed from this card": "Z TEJ KARTY NIE MOŻNA USUWAĆ JEDNOSTEK ZWIERZĄT.",
     "1 VP per 2 animals here.": "Otrzymujesz po 1 PZ za każde 2 znajdujące się na tej karcie jednostki zwierząt.",
-    "Effect: When any city tile is placed, add an animal to this card.": "Efekt trwały: Za każdym razem, gdy któryś z graczy umieści na planszy obszar miasta, umieść na tej karcie 1 jednostkę zwierząt.",
+    "Effect: When any city tile is placed, add an animal to this card.": "Efekt trwały: Gdy któryś z graczy umieści na planszy obszar miasta, umieść na tej karcie 1 jednostkę zwierząt.",
     "Add 1 animal to this card.": "Umieść na tej karcie 1 jednostkę zwierząt.",
 
     "Protected Habitats": "Chronione Siedliska",
@@ -648,7 +648,7 @@
     "Place this tile.": "Umieść ten obszar na planszy.",
 
     "Immigrant City": "Miasto Imigrantów",
-    "Effect: When a city tile is placed, including this, increase your M€ production 1 step.": "Efekt trwały: Za każdym razem, gdy któryś z graczy umieści na planszy obszar miasta (z tym włącznie), podnieś swoją produkcję M€ o 1 poziom.",
+    "Effect: When a city tile is placed, including this, increase your M€ production 1 step.": "Efekt trwały: Gdy któryś z graczy umieści na planszy obszar miasta (z tym włącznie), podnieś swoją produkcję M€ o 1 poziom.",
     "Decrease your energy production 1 step and decrease your M€ production 2 steps. Place a city tile.": "Obniż swoją produkcję energii o 1 poziom. Obniż swoją produkcję M€ o 2 poziomy. Umieść na planszy obszar miasta.",
 
     "Energy Tapping": "Podpięcie do Sieci",
