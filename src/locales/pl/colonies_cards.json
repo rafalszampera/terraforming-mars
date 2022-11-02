@@ -17,7 +17,7 @@
     "Requires 2 Earth tags. The next card you play this generation costs 16 M€ less.": "Musisz posiadać przynajmniej 2 symbole Ziemi. Następna karta zagrana przez Ciebie podczas tego pokolenia będzie kosztować o 16 M€ mniej.",
 
     "Corona Extractor": "Ekstraktor Korony",
-    "Requires 4 science tags. Increase your energy production 4 steps.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję energii o 4 poziomy.",
+    "Requires 4 science tags. Increase your energy production 4 steps.": "Musisz posiadać przynajmniej 4 symbole Nauki. Podnieś swoją produkcję energii o 4 poziomy.",
 
     "Cryo-Sleep": "Hibernacja",
     "Effect: When you trade, you pay 1 less resource for it.": "Efekt trwały: Gdy wykonujesz akcję handlu z obiektem, płacisz o 1 jednostkę zasobów mniej.",
@@ -60,7 +60,7 @@
     "Jupiter Floating Station": "Stacja Dryfowa na Jowiszu",
     "Action: Add 1 floater to a JOVIAN CARD.": "Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie z symbolem Jowisza.",
     "Action: Gain 1 M€ for every floater here [MAX 4].": "Akcja: Otrzymaj 1 M€ za każdą znajdującą się na tej karcie jednostkę dryfowców (max 4).",
-    "Requires 3 science tags.": "Musisz posiadać przynajmniej 3 symbole nauki.",
+    "Requires 3 science tags.": "Musisz posiadać przynajmniej 3 symbole Nauki.",
 
     "Luna Governor": "Gubernator Księżyca",
     "Requires 3 Earth tags. Increase your M€ production 2 steps.": "Musisz posiadać przynajmniej 3 symbole Ziemi. Podnieś swoją produkcję M€ o 2 poziomy.",
@@ -98,11 +98,11 @@
     "Gain all your colony bonuses.": "Otrzymujesz premię kolonialną za wszystkie swoje kolonie.",
 
     "Quantum Communications": "Komunikacja Kwantowa",
-    "Requires 4 science tags. Increase your M€ production 1 step for each colony in play.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję M€ o 1 poziom za każdą kolonię w grze.",
+    "Requires 4 science tags. Increase your M€ production 1 step for each colony in play.": "Musisz posiadać przynajmniej 4 symbole Nauki. Podnieś swoją produkcję M€ o 1 poziom za każdą kolonię w grze.",
 
     "Red Spot Observatory": "Obserwatorium Wielkiej Czerwonej Plamy",
     "Action: Add 1 floater to this card, or spend 1 floater here to draw a card.": "Akcja: Umieść na tej karcie 1 jednostkę dryfowców lub wydaj 1 jednostkę dryfowców z tej karty, aby dobrać 1 kartę.",
-    "Requires 3 science tags. Draw 2 cards.": "Musisz posiadać przynajmniej 3 symbole nauki. Dobierz 2 karty.",
+    "Requires 3 science tags. Draw 2 cards.": "Musisz posiadać przynajmniej 3 symbole Nauki. Dobierz 2 karty.",
 
     "Refugee Camps": "Obozy Uchodźców",
     "Action: Decrease your M€ production 1 step to add a camp resource to this card.": "Akcja: Obniż swoją produkcję M€ o 1 poziom aby umieścić na tej karcie 1 jednostkę obozów.",
@@ -119,7 +119,7 @@
     "Requires 2 Earth tags. Gain 1 Trade Fleet.": "Musisz posiadać przynajmniej 2 symbole Ziemi. Otrzymujesz 1 flotę handlową.",
 
     "Solar Probe": "Sonda Słoneczna",
-    "Draw 1 card for every 3 science tags you have, including this.": "Dobierz 1 kartę za każde 3 posiadane symbole nauki (z tym włącznie).",
+    "Draw 1 card for every 3 science tags you have, including this.": "Dobierz 1 kartę za każde 3 posiadane symbole Nauki (z tym włącznie).",
 
     "Solar Reflectors": "Reflektory Słoneczne",
     "Increase your heat production 5 steps.": "Podnieś swoją produkcję ciepła o 5 poziomów.",
@@ -163,6 +163,6 @@
     "Requires that you have 1 city tile and 1 colony in play. Increase your plant production 1 step, and add 2 microbes to ANOTHER card.": "Musisz posiadać przynajmniej 1 obszar miasta i 1 kolonię. Podnieś swoją produkcję roślinności o 1 poziom i umieść 2 jednostki mikrobów na dowolnej karcie.",
 
     "Warp Drive": "Napęd Warp",
-    "Effect: When you play a space card, you pay 4 M€ less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem przestrzeni kosmicznej, płacisz za nią o 4 M€ mniej.",
-    "Requires 5 science tags.": "Musisz posiadać przynajmniej 5 symboli nauki."
+    "Effect: When you play a space card, you pay 4 M€ less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Przestrzeni Kosmicznej, płacisz za nią o 4 M€ mniej.",
+    "Requires 5 science tags.": "Musisz posiadać przynajmniej 5 symboli Nauki."
 }

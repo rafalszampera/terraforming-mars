@@ -57,7 +57,7 @@
     "Increase energy production 1 step per 2 power tags (no limit). Influence counts as power tags.": "Każdy gracz podnosi swoją produkcję energii o 1 poziom za każde posiadane 2 symbole Energii (bez limitu). Punkty wpływów uważane są za symbole Energii.",
 	
 	"Interplanetary Trade": "Handel międzyplanetarny",
-    "Gain 2 M€ for each space tag (max 5) and influence.": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symbol Przestrzeni Kosmicznej (max 5) i punkt wpływów.",
+    "Gain 2 M€ for each space tag (max 5) and influence.": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symboli Przestrzeni Kosmicznej (max 5) i punkt wpływów.",
 	
 	"Jovian Tax Rights": "Podatki Jowiańskie",
     "Increase M€ production 1 step for each colony. Gain 1 titanium for each influence.": "Każdy gracz podnosi swoją produkcję M€ o 1 poziom za każdą posiadaną kolonię. Każdy gracz otrzymuje po 1 jednostce tytanu za każdy posiadany punkt wpływów.",
@@ -91,7 +91,7 @@
     "Decrease temperature 2 steps. Draw 1 card per influence.": "Obniż Temperaturę o 2 poziomy. Każdy gracz dobiera po 1 karcie za każdy posiadany punkt wpływów.",
 	
 	"Solar Flare": "Rozbłysk Słoneczny",
-    "Lose 3 M€ for each space tag (max 5, then reduced by influence).": "Każdy gracz traci po 3 M€ za każdy posiadany symbol Przestrzeni Kosmicznej (max 5, obniżone o posiadane punkty wpływów).",
+    "Lose 3 M€ for each space tag (max 5, then reduced by influence).": "Każdy gracz traci po 3 M€ za każdy posiadany symboli Przestrzeni Kosmicznej (max 5, obniżone o posiadane punkty wpływów).",
 	
 	"Solarnet Shutdown": "Wyłączenie Solarnetu",
     "Lose 3 M€ for each blue card (max 5, then reduced by influence).": "Każdy gracz traci po 3 M€ za każdą zagraną kartę aktywną (niebieską) (max 5, obniżone o posiadane punkty wpływów).",

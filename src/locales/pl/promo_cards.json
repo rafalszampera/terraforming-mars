@@ -28,7 +28,7 @@
     
 	"Magnetic Shield": "Tarcza Magnetyczna",
     "3 Power": "3 symbole Energii",
-    "(Requires 3 power tags. Raise your TR 4 steps.)": "Musisz posiadać co najmniej 3 symbole energii. Podnieś swoj WT o 4 poziomy.",
+    "(Requires 3 power tags. Raise your TR 4 steps.)": "Musisz posiadać co najmniej 3 symbole Energii. Podnieś swoj WT o 4 poziomy.",
     
 	"Meltworks": "Wytapialnia",
     "Action: Spend 5 heat to gain 3 steel.": "Akcja: Wydaj 5 jednostek ciepła, aby otrzymać 3 jednostki stali.",
@@ -49,7 +49,7 @@
     "(Gain 4 plants and add 4 microbes to ANOTHER CARD.)": "Otrzymujesz 4 jednostki roślinności. Umieść 4 jednostki mikrobów na dowolnej karcie.",
     
 	"Asteroid Deflection System": "Zakrzywianie Trajektorii Asteroid",
-    "(Action: REVEAL AND DISCARD the top card of the deck. If it has a space tag, add an asteroid here.)": "Akcja: Odkryj i odrzuć kartę. Jeśli ma symbol Przestrzeni Kosmicznej, umieść 1 jednostę asteroid na tej karcie.",
+    "(Action: REVEAL AND DISCARD the top card of the deck. If it has a space tag, add an asteroid here.)": "Akcja: Odkryj i odrzuć kartę. Jeśli ma symboli Przestrzeni Kosmicznej, umieść 1 jednostę asteroid na tej karcie.",
     "opponents may not remove your plants": "Przeciwnicy nie mogą usuwać Twoich jednostek roślinności.",
     "(Decrease your energy production 1 step. 1VP per asteroid on this card.)": "Obniż swoją produkcję energii o 1 poziom. Otrzymujesz 1 PZ za każdą jednostkę asteroid na tej karcie.",
     
@@ -99,7 +99,7 @@
     "Requires 2 oceans. Increase your plant production and your heat production 1 step each.": "Na planszy muszą się znajdować przynajmniej 2 obszary oceanów. Podnieś swoją produkcję roślinności i ciepła o 1 poziom.",
     
 	"Self-replicating Robots": "Maszyny Samoreplikujące",
-    "Action: Reveal and place a SPACE OR BUILDING card here from hand, and place 2 resources on it, OR double the resources on a card here.": "Akcja: Umieść na tej karcie kartę z symbolem przestrzeni kosmicznej lub budowli ze swojej ręki i umieść na niej 2 surowce, lub podwój liczbę zasobów na tej karcie.",
+    "Action: Reveal and place a SPACE OR BUILDING card here from hand, and place 2 resources on it, OR double the resources on a card here.": "Akcja: Umieść na tej karcie kartę z symbolem Przestrzeni Kosmicznej lub budowli ze swojej ręki i umieść na niej 2 surowce, lub podwój liczbę zasobów na tej karcie.",
     "Effect: Card here may be played as if from hand with its cost reduced by the number of resources on it.": "Efekt trwały: Karty umieszczone na tej karcie mogą być zagrane jak z ręki z kosztem zagrania obniżonym o umieszczoną na niej liczbę zasobów.",
     
 	"Dusk Laser Mining": "Nocne Górnictwo Laserowe",
@@ -126,11 +126,11 @@
     "Requires 4 ocean tiles. Increase your energy production 2 steps. Place this tile ADJACENT TO an ocean tile.": "Na planszy muszą się znajdować przynajmniej 4 obszary oceanów. Podnieś swoją produkcję energii o 2 poziomy. Umieść ten obszar na planszy na polu sąsiadującym z obszarem oceanu.",
     "Decrease your energy production 4 steps and increase your plant production 2 steps. Raise your TR 3 steps.": "Obniż swoją produkcję energii o 4 poziomy. Podnieś swoją produkcję roślinności o 2 poziomy. Podnieś swój współczynnik terraformacji o 3.",
     "Requires 8 oceans. 1 VP for each animal on this card.": "Na planszy musi znajdować się co najmniej 8 obszarów oceanów. Otrzymujesz 1 PZ za każdą jednostkę zwierząt na tej karcie.",
-    "Requires 2 science tags.": "Musisz posiadać przynajmniej 2 symbole nauki.",
+    "Requires 2 science tags.": "Musisz posiadać przynajmniej 2 symbole Nauki.",
     "Action: Spend 2X M€ to gain X energy, or decrease energy production 1 step to gain 8 M€.": "Akcja: Wydaj 2*X M€, aby otrzymać X jednostek energii lub obniż swoją produkcję energii o 1 poziom, aby otrzymać 8 M€.",
     
 	"Bactoviral Research": "Badania Baktowirusowe",
-    "(Draw 1 card. Choose 1 of your played cards and add 1 microbe to it for each science tag you have, including this.)": "(Pociągnij 1 kartę. Wybierz 1 z zagranych kart i dodaj na nią 1 jednostę mikrobów za każdy posiadany symbol nauki, ten włącnie.)",
+    "(Draw 1 card. Choose 1 of your played cards and add 1 microbe to it for each science tag you have, including this.)": "(Pociągnij 1 kartę. Wybierz 1 z zagranych kart i dodaj na nią 1 jednostę mikrobów za każdy posiadany symbol Nauki, ten włącnie.)",
     
 	"Bio Printing Facility": "Ośrodek bio drukowania",
     "(Action: Spend 2 energy to gain 2 plants OR to add 1 animal to ANOTHER card.)": "(Akcja: Wydaj 2 jednostki energii by otrzymac 2 jednostki roślinności lub dodaj jednostkę zwierząt na inną kartę.)",

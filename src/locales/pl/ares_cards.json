@@ -15,7 +15,7 @@
 
     "Bioengineering Enclosure": "Sektor Bioinżynierii",
     "Action: Remove 1 animal from THIS card to add 1 animal to ANOTHER card.": "Akcja: Usuń 1 jednostkę zwierząt z tej karty, aby umieścić 1 jednostkę zwierząt na dowolnej karcie.",
-    "Requires 1 science tag to play. Add 2 animals to this card. OTHERS MAY NOT REMOVE ANIMALS FROM THIS CARD.": "Musisz posiadać przynajmniej 1 symbol nauki. Umieść na tej karcie 2 jednostki zwierząt. PRZECIWNICY NIE MOGĄ USUWAĆ JEDNOSTEK ZWIERZĄT Z TEJ KARTY.",
+    "Requires 1 science tag to play. Add 2 animals to this card. OTHERS MAY NOT REMOVE ANIMALS FROM THIS CARD.": "Musisz posiadać przynajmniej 1 symbol Nauki. Umieść na tej karcie 2 jednostki zwierząt. PRZECIWNICY NIE MOGĄ USUWAĆ JEDNOSTEK ZWIERZĄT Z TEJ KARTY.",
 
     "Butterfly Effect": "Efekt Motyla",
     "Gain 1 TR. Move each individual hazard marker up to 1 step up or down.": "Przesuń każdy ze znaczników zagrożenia maksymalnie o 1 poziom w górę lub w dół. Podnieś swój WT o 1 poziom.",
@@ -52,12 +52,12 @@
     "Place this tile which grants an ADJACENCY BONUS of 2 energy. Increase your energy production 1 step for each plant resource on the area where you place the tile.": "Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 jednostki energii. Podnieś swoją produkcję energii o 1 poziom za każdą jednostkę roślinności znajdującą się na polu, na którym umieściłeś ten obszar.",
 
     "Ecological Zone": "Strefa Ekologiczna",
-    "Effect: When you play an animal or plant tag INCLUDING THESE, add an animal to this card.": "Efekt trwały: Za każdy zagrywany przez Ciebie symbol zwierząt lub roślinności (z tymi włącznie), umieść tu 1 jednostkę zwierząt.",
+    "Effect: When you play an animal or plant tag INCLUDING THESE, add an animal to this card.": "Efekt trwały: Za każdy zagrywany przez Ciebie symbol Zwierząt lub roślinności (z tymi włącznie), umieść tu 1 jednostkę zwierząt.",
     "the tile grants an adjacency bonus of 1 animal. 1 VP per 2 animals on this card.": "GDY DOWOLNY GRACZ UMIEŚCI OBSZAR OBOK TEGO OBSZARU, OTRZYMUJE 1 JEDNOSTKĘ ZWIERZĄT. 1 PZ ZA KAŻDE 2 JEDNOSTKI ZWIERZĄT NA TEJ KARCIE.",
     "Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.": "Musisz posiadać min. 1 obszar zieleni. Umieść ten obszar obok obszaru zieleni.",
 
     "Bio-Fertilizer Facility": "Ośrodek Eko Nawożenia",
-    "Requires 1 science tag. Increase your plant production 1 step. Add up to 2 microbes to ANY card. Place this tile which grants an ADJACENCY BONUS of 1 plant and 1 microbe.": "Musisz posiadać przynajmniej 1 symbol nauki. Podnieś swoją produkcję roślinności o 1 poziom. Umieść 2 jednostki mikrobów na dowolnej karcie. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje po 1 jednostce roślinności i mikrobów.",
+    "Requires 1 science tag. Increase your plant production 1 step. Add up to 2 microbes to ANY card. Place this tile which grants an ADJACENCY BONUS of 1 plant and 1 microbe.": "Musisz posiadać przynajmniej 1 symbol Nauki. Podnieś swoją produkcję roślinności o 1 poziom. Umieść 2 jednostki mikrobów na dowolnej karcie. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje po 1 jednostce roślinności i mikrobów.",
 
     "Metallic Asteroid": "Metaliczna Asteroida",
     "Raise temperature 1 step and gain 1 titanium. Remove up to 4 plants from any player. Place this tile which grants an ADJACENCY BONUS of 1 titanium.": "Podnieś Temperaturę o 2°C. Otrzymujesz 1 jednostkę tytanu. Usuń do 4 jednostek roślinności dowolnego gracza. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 jednostkę tytanu.",

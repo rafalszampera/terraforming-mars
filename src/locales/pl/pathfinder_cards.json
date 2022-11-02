@@ -97,7 +97,7 @@
   "(Effect: When you place a tile ON MARS gain 1 additional resource on the space. If the space has no bonus, gain 1 steel.)": "Efekt trwały: Gdy umieszczasz kafelek obszaru na planszy Marsa na polu z premią zasobów otrzymujesz 1 dodatkową jednostkę jednego z zasobów premiowych. Jeśli pole nie zawiera zasobów premiowych otrzymujesz 1 jednostkę stali.",
 
   "High Temp. Superconductors": "Nadprzewodniki Wysokotemperaturowe",
-  "(Effect: When playing a power card, THE STANDARD PROJECT POWER PLANT, OR THE KELVINIST RULING POLICY ACTION, pay 3M€ less.)": "Efekt trwały: Gdy zagrywasz kartę z symbolem energii, płacisz za projekt standardowy Elektrowni lub projekt Kelwinistów płacisz o 3 M€ mniej.",
+  "(Effect: When playing a power card, THE STANDARD PROJECT POWER PLANT, OR THE KELVINIST RULING POLICY ACTION, pay 3M€ less.)": "Efekt trwały: Gdy zagrywasz kartę z symbolem Energii, płacisz za projekt standardowy Elektrowni lub projekt Kelwinistów płacisz o 3 M€ mniej.",
   "(Requires Kelvinists are ruling or you have 2 delegates there. Increase your energy production 2 steps.)": "Kelwiniści muszą być partią rządzącą lub musisz posiadać przynajmniej 2 delegatów w tej partii. Podnieś swoją produkcję energii o 2 poziomy.",
 
   "Huygens Observatory": "Obserwatorium Huygensa",
@@ -158,7 +158,7 @@
   "(Increase your plant production by 2. Gain 1 plant.)": "Podnieś swoją produkcję roślinności o 2 poziomy. Otrzymujesz 1 jednostkę roślinności.",
 
   "Oumuamua Type Object Survey": "Przechwycenie Obiektu Typu Oumuamua",
-  "Draw 2 cards face up. If the first has a science or microbe tag, play it outright ignoring requirements and cost. If not, and it has a space tag, gain 3 energy prod. If it has none of those, apply the check to the second card.": "Dobierz 2 odkryte karty. Jeśli pierwsza z nich posiada symbol Nauki lub Mikrobów zagraj ją za darmo ignorując wymagania. Jeśli nie, ale posiada symbol Przestrzeni Kosmicznej zwiększ swoją produkcję energii o 3 poziomy. Jeśli pierwsza karta nie posiada żadnego z wymienionych symboli zastosuj tą zasadę do drugiej karty.",
+  "Draw 2 cards face up. If the first has a science or microbe tag, play it outright ignoring requirements and cost. If not, and it has a space tag, gain 3 energy prod. If it has none of those, apply the check to the second card.": "Dobierz 2 odkryte karty. Jeśli pierwsza z nich posiada symbol Nauki lub Mikrobów zagraj ją za darmo ignorując wymagania. Jeśli nie, ale posiada symboli Przestrzeni Kosmicznej zwiększ swoją produkcję energii o 3 poziomy. Jeśli pierwsza karta nie posiada żadnego z wymienionych symboli zastosuj tą zasadę do drugiej karty.",
   "(Requires 1 space tag and 1 science tag. Add 2 data to ANY card. )": "Musisz posiadać przynajmniej 1 symbol Nauki i Przestrzeni Kosmicznej. Umieść 2 jednostki danych na dowolnej karcie.",
 
   "Ozone Generators": "Generatory Ozonu",
@@ -173,7 +173,7 @@
   "(Increase your heat production 2 steps and your energy production 1 step.)": "Podnieś swoją produkcję ciepła o 2 poziomy. Podnieś swoją produkcję energii o 1 poziom.",
 
   "Prefabrication of Human Habitats": "Prefabrykacja Siedlisk Ludzkich",
-  "(Effect: Cards with a city tag cost 2M€ less.)": "Efekt trwały: Gdy zagrywasz kartę z symbolem miasta lub używasz projektu standardowego Miasto płacisz o 2 M€ mniej.",
+  "(Effect: Cards with a city tag cost 2M€ less.)": "Efekt trwały: Gdy zagrywasz kartę z symbolem Miasta lub używasz projektu standardowego Miasto płacisz o 2 M€ mniej.",
   "(Effect: The CITY STANDARD PROJECT costs 2M€ less. STEEL MAY BE USED as if you were playing a building card.)": "Możesz używać stali do pokrycia kosztu tych akcji.",
   "(Requires that you have steel production.)": "Musisz posiadać przynajmniej 1 poziom produkcji stali.",
 

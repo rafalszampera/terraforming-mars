@@ -14,7 +14,7 @@
 	"FACTORUM": "FACTORUM",
     "Factorum": "Factorum",
     "You start with 37 M€. Increase your steel production 1 step.": "Rozpoczynasz grę z 37 M€ i dodatkowym poziomem produkcji stali.",
-    "Action: Increase your energy production 1 step IF YOU HAVE NO ENERGY RESOURCES, or spend 3M€ to draw a building card.": "JEŚLI NIE POSIADASZ JEDNOSTEK ENERGII, podnieś swoją produkcję energii o 1 poziom ALBO wydaj 3 M€, aby dobrać pierwszą z odkrywanych kart z symbolem budowli z talii projektów (pozostałe odrzuć).",
+    "Action: Increase your energy production 1 step IF YOU HAVE NO ENERGY RESOURCES, or spend 3M€ to draw a building card.": "JEŚLI NIE POSIADASZ JEDNOSTEK ENERGII, podnieś swoją produkcję energii o 1 poziom ALBO wydaj 3 M€, aby dobrać pierwszą z odkrywanych kart z symbolem Budowli z talii projektów (pozostałe odrzuć).",
     
 	"mons": "mons",
     "INSURANCE": "INSURANCE",
@@ -25,8 +25,8 @@
 	"Pharmacy": "Farmaceutyczna",
     "Union": "Unia",
     "Pharmacy Union": "Unia Farmaceutyczna",
-	"You start with 54 M€ . Draw a Science card.": "Rozpoczynasz grę z 54 M€. Odkrywaj karty z wierzchu talii projektów, dopóki nie odkryjesz karty z symbolem nauki. Weź tę kartę na rękę, a resztę odrzuć.",
-    "Effect: When ANY microbe tag is played, add a disease here and lose 4 M€ or as much as possible. When you play a science tag, remove a disease here and gain 1 TR OR if there are no diseases here, you MAY put this card face down in your EVENTS PILE to gain 3 TR.": "Efekt trwały: Gdy któryś z graczy zagra kartę z symbolem mikrobów (z tą włącznie), umieść na tej karcie 1 jednostkę chorób i zapłać 4 M€ (lub tyle, ile możesz). Gdy zagrywasz kartę z symbolem nauki, usuń 1 jednostkę chorób z tej karty i podnieś swój WT o 1 poziom, albo, jeśli na tej karcie nie ma jednostek chorób, możesz podnieść swój WT o 3 poziomy i obrócić tę kartę wierzchem na dół (tracąc symbole i efekty tej karty).",
+	"You start with 54 M€ . Draw a Science card.": "Rozpoczynasz grę z 54 M€. Odkrywaj karty z wierzchu talii projektów, dopóki nie odkryjesz karty z symbolem Nauki. Weź tę kartę na rękę, a resztę odrzuć.",
+    "Effect: When ANY microbe tag is played, add a disease here and lose 4 M€ or as much as possible. When you play a science tag, remove a disease here and gain 1 TR OR if there are no diseases here, you MAY put this card face down in your EVENTS PILE to gain 3 TR.": "Efekt trwały: Gdy któryś z graczy zagra kartę z symbolem Mikrobów (z tą włącznie), umieść na tej karcie 1 jednostkę chorób i zapłać 4 M€ (lub tyle, ile możesz). Gdy zagrywasz kartę z symbolem Nauki, usuń 1 jednostkę chorób z tej karty i podnieś swój WT o 1 poziom, albo, jeśli na tej karcie nie ma jednostek chorób, możesz podnieść swój WT o 3 poziomy i obrócić tę kartę wierzchem na dół (tracąc symbole i efekty tej karty).",
     
 	"PHIL": "PHIL",
     "A": "A",
@@ -37,13 +37,13 @@
     
 	"Recyclon": "Recyclon",
     "You start with 38 M€ and 1 steel production.": "Rozpoczynasz grę z 38 M€ i 1 dodatkowym poziomem produkcji stali.",
-    "Effect: When you play a building tag, including this, gain 1 microbe to this card, or remove 2 microbes here and raise your plant production 1 step.": "Efekt trwały: Gdy zagrywasz kartę z symbolem budowli (z tą włącznie), umieść na tej karcie 1 jednostkę mikrobów lub usuń z tej karty 2 jednostki mikrobów i podnieś swoją produkcję zieleni o 1 poziom za każdy symbol budowli na zagranej karcie.",
+    "Effect: When you play a building tag, including this, gain 1 microbe to this card, or remove 2 microbes here and raise your plant production 1 step.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Budowli (z tą włącznie), umieść na tej karcie 1 jednostkę mikrobów lub usuń z tej karty 2 jednostki mikrobów i podnieś swoją produkcję zieleni o 1 poziom za każdy symbol Budowli na zagranej karcie.",
     
 	"SPLI": "SPLI",
     "C": "C",
     "E": "E",	
     "TACTICAL GENOMICS": "TACTICAL GENOMICS",
     "Splice": "Splice",
-    "You start with 44 M€. As your first action, reveal cards until you have revealed a microbe tag. Take it and discard the rest.": "Warunki początkowe: Rozpoczynasz grę z 44 M€. W ramach swojej pierwszej akcji odkrywaj karty z wierzchu talii projektów, dopóki nie odkryjesz karty z symbolem mikrobów. Weź tę kartę do ręki, resztę odrzuć.",
-    "Effect: when a microbe tag is played, incl. this, THAT PLAYER gains 2 M€, or adds a microbe to THAT card, and you gain 2 M€.": "Efekt trwały: Gdy któryś z graczy zagra kartę z symbolem mikrobów (z tą włącznie), ten gracz otrzymuje 2 M€ lub umieszcza 1 jednostkę mikrobów na zagranej karcie, a Ty dodatkowo otrzymujesz 2 M€ za każdy symbol mikrobów na zagranej karcie."
+    "You start with 44 M€. As your first action, reveal cards until you have revealed a microbe tag. Take it and discard the rest.": "Warunki początkowe: Rozpoczynasz grę z 44 M€. W ramach swojej pierwszej akcji odkrywaj karty z wierzchu talii projektów, dopóki nie odkryjesz karty z symbolem Mikrobów. Weź tę kartę do ręki, resztę odrzuć.",
+    "Effect: when a microbe tag is played, incl. this, THAT PLAYER gains 2 M€, or adds a microbe to THAT card, and you gain 2 M€.": "Efekt trwały: Gdy któryś z graczy zagra kartę z symbolem Mikrobów (z tą włącznie), ten gracz otrzymuje 2 M€ lub umieszcza 1 jednostkę mikrobów na zagranej karcie, a Ty dodatkowo otrzymujesz 2 M€ za każdy symbol Mikrobów na zagranej karcie."
 }
