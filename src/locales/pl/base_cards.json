@@ -573,13 +573,13 @@
     "Decrease your energy production 2 steps and increase your plant production 1 step. Raise your TR 1 step.": "Obniż swoją produkcję energii o 2 poziomy. Podnieś swoją produkcję roślinności o 1 poziom. Podnieś swój Współczynnik Terraformacji o 1.",
     
 	"Pets": "Zwierzęta Domowe",
-    "Animals may not be removed from this card": "Z TEJ KARTY NIE MOŻNA USUWAĆ JEDNOSTEK ZWIERZĄT.",
+    "Animals may not be removed from this card": "Z tej karty nie można usuwać jednostek zwierząt.",
     "Effect: When any city tile is placed, add an animal to this card.": "Efekt trwały: Gdy którykolwiek z graczy umieści na planszy obszar miasta, umieść na tej karcie 1 jednostkę zwierząt.",
     "(Add 1 animal to this card.)": "(Akcja: Umieść na tej karcie 1 jednostkę zwierząt.)",
     "1 VP per 2 animals here.": "Otrzymujesz po 1 PZ za każde 2 znajdujące się na tej karcie jednostki zwierząt.",
     
 	"Protected Habitats": "Chronione Siedliska",
-    "Opponents may not remove your": "PRZECIWNICY NIE MOGĄ USUWAĆ TWOICH",
+    "Opponents may not remove your": "Przeciwnicy nie mogą usuwać twoich.",
     
 	"Protected Valley": "Chroniona Dolina",
     "(Increase your M€ production 2 steps. Place a greenery tile ON AN AREA RESERVED FOR OCEAN, disregarding normal placement restrictions, and increase oxygen 1 step.)": "(Podnieś swoją produkcję M€ o 2 poziomy. Umieść obszar zieleni na planszy, na polu zarezerwowanym dla obszaru oceanu, ignorując normalne ograniczenia umieszczania obszarów. Podnieś poziom tlenu o 1%.)",
@@ -714,7 +714,7 @@
     "Requires 2 Earth tags. Increase M€ production 4 steps.": "Musisz posiadać co najmniej 2 symbole Ziemi. Podnieś swoją produkcję M€ o 4 poziomy.",
     "Oxygen must be 4% or lower. Draw two cards.": "Poziom tlenu wynosi co najwyżej 4%. Dobierz 2 karty.",
     "After being played, when you perform an action, the wild tag counts as any tag of your choice.": "Gdy wykonujesz akcję, traktujesz uniwersalny symbol jak dowolny wybrany symbol.",
-    "Decrease your energy production 1 step and increase your M€ production 2 steps. Place a city tile on a VOLCANIC AREA regardless of adjacent cities.": "Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję M€ o 2 poziomy. Umieść obszar miasta na OBSZARZE WULKANICZNYM bez względu na występowanie sąsiadujących miast.",
+    "Decrease your energy production 1 step and increase your M€ production 2 steps. Place a city tile on a VOLCANIC AREA regardless of adjacent cities.": "Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję M€ o 2 poziomy. Umieść obszar miasta na Obszarze Wulkanicznym bez względu na występowanie sąsiadujących miast.",
     "Effect: When paying for a plant card, microbes here may be used as 2 M€ each.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Roślinności, do pokrycia kosztu tej karty możesz użyć znajdujące się na karcie Psychrofile jednostki mikrobów. Każda jednostka mikrobów warta jest 2 M€.",
     "Temperature must be -20 C or lower.": "Temperatura wynosi co najwyżej -20°C.",
     "Increase your energy production 1 step": "Podnieś swoją produkcję energii o 1 poziom",
