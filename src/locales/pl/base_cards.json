@@ -260,7 +260,7 @@
     "Effect: When you play a science tag, including this, you may discard a card from hand to draw a card.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Nauki (z tą włącznie), za każdy symbol Nauki na zagrywanej karcie możesz odrzucić kartę z ręki i dobrać nową kartę.",
     
 	"Viral Enhancers": "Wirusy Wspomagające",
-    "Effect: When you play a plant, microbe, or an animal tag, including this, gain 1 plant or add 1 resource to THAT CARD.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Roślinności, Mikrobów lub Zwierząt (z tą włącznie), otrzymujesz 1 jednostkę roślinności lub umieszczasz 1 jednostkę danych zasobów za każdy symbol na zagranej karcie.",
+    "Effect: When you play a plant, microbe, or an animal tag, including this, gain 1 plant or add 1 resource to THAT CARD.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Roślinności, Mikrobów lub Zwierząt (z tą włącznie), otrzymaj 1 jednostkę roślinności lub umieszczasz 1 jednostkę danych zasobów za każdy symbol na zagranej karcie.",
     
 	"Towing A Comet": "Holowanie Komety",
     "Gain 2 plants. Raise oxygen level 1 step and place an ocean tile.": "Otrzymujesz 2 jednostki roślinności. Podnieś poziom tlenu o 1 poziom i umieść na planszy obszar oceanu.",
@@ -605,7 +605,7 @@
     
 	"Ice Cap Melting": "Roztapianie Czap Lodowych",
     "Requires +2 C or warmer. Place 1 ocean tile.": "Temperatura musi wynosić co najmniej 2°C. Umieść na planszy obszar oceanu.",
-	"Gain 5 plants": "Otrzymaj 4 jednostki roślinności",
+	"Gain 5 plants": "Otrzymujesz 4 jednostki roślinności",
     "Add 4 animals to Fish": "Dodaj 4 jednostki zwierząt do karty ryb",
     
 	"Corporate Stronghold": "Siedziba Korporacji",

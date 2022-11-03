@@ -130,7 +130,7 @@
     "${0} card(s) were discarded": "Odrzucono kart: ${0}",
     "Select space next to greenery for special tile": "Wybierz obszar sąsiadujący z obszarem zieleni do umieszczenia obszaru specjalnego.",
     "Select space for special tile next to no other tile": "Wybierz obszar nie sąsiadujący z żadnym innym obszarem do umieszczenia obszaru specjalnego.",
-    "Gain plants": "Otrzymaj jednostki rożlinności",
+    "Gain plants": "Otrzymujesz jednostki rożlinności",
     "Add animals": "Dodaj jednostki zwierząt",
 
     "${0} spent ${1} energy to trade with ${2}": "${0} wydał/a ${1} jednostek energii aby wykonać akcję handlu z ${2}",
