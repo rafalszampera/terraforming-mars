@@ -1,30 +1,75 @@
 {
     "Terraforming Mars - Game finished!": "Terraformacja Marsa - Gra zakończona!",
-    "Sorry, you lose.": "Niestety, przegrałeś/aś.",
-    "Next time you will get more luck!": "Kolejnym razem na pewno pójdzie lepiej!",
+    "Sorry, you lose.": "Niestety, przegrywasz.",
+    "Next time you will get more luck!": "Kolejnym razem na pewno pójdzie Ci lepiej!",
     "Also, take into account these small hints to win:": "Weź pod uwagę te drobne wskazówki:",
-    "Concentrate more on Global parameters, not on Victory Points": "Skup się bardziej na Wskaźnikach Globalnych zamiast Punktach Zwycięstwa",
-    "Don't be greedy with card selection": "Nie przesadzaj z dobieraniem kart",
-    "Try to increase heat production, not Megacredits": "Postaraj się podnosić produkcję ciepła, nie Megakredytów",
-    "Try starting with the Beginner corporation": "Spróbuj zacząć z korporacją dla początkujących",
+    "Concentrate more on Global parameters, not on Victory Points": "Skup się bardziej na Wskaźnikach Globalnych niż na Punktach Zwycięstwa.",
+    "Don't be greedy with card selection": "Nie przesadzaj z dobieraniem kart.",
+    "Try to increase heat production, not Megacredits": "Postaraj się podnosić produkcję ciepła, nie Megakredytów.",
+    "Try starting with the Beginner corporation": "Spróbuj zacząć z korporacją dla początkujących.",
 
-    "You win!": "Wygrałeś/aś!",
+    "You win!": "Wygrywasz!",
+    "won!": "wygrywa!",
     "But it isn't the reason to stop making Mars better.": "Nie jest to jednak powód do zaprzestania dalszego doskonalenia Marsa.",
-    "Try to win with expansions enabled": "Spróbuj wygrać korzystając z dodatków",
-    "Try to win before the last generation comes": "Postaraj się wygrać przed nadejściem ostatniego pokolenia",
+    "Try to win with expansions enabled": "Spróbuj wygrać korzystając z dodatków.",
+    "Try to win before the last generation comes": "Postaraj się wygrać przed nadejściem ostatniego pokolenia.",
     "Can you get": "Czy zdołasz zdobyć",
     "+ Victory Points?": "+ Punktów Zwycięstwa?",
 
     "Victory points breakdown after": "Analiza punktów zwycięstwa po",
-    "Victory points details": "Szczegóły punktów zwycięstwa",
-    "generations": "pokoleniach",
+    "Victory points details": "Szczegóły punktacji:",
+    "generations": "pokoleniach:",
     "Player": "Gracz",
     "Corporation": "Korporacja",
     "TR": "WT",
     "VP": "PZ",
     "Total": "Razem",
     "Victory points details for": "Szczegóły punktów zwycięstwa u:",
-    "Final situation on the board": "Końcowa sytuacja na planszy",
+    "Final situation on the board": "Końcowa sytuacja na planszy:",
     "Final game log": "Finalny dziennik gry",
-    "Go to main page": "Przejdź na stronę główną"
+    "Go to main page": "Przejdź na stronę główną",
+
+    "1st place for": "1. Miejsce dla tytułu",
+    "2nd place for": "2. Miejsce dla tytułu",
+    "award (funded by": "(ufundowanego przez gracza:",
+
+    "Claimed": "Zdobyty tytuł",
+    "milestone": "!",
+
+
+    
+
+    "M": "T",
+    "A": "N",
+    "Milestones points": "Punkty Zwycięstwa za tytuły",
+    "Awards points": "Punkty Zwycięstwa za nagrody",
+
+    "Try to win before the last generation": "Essayez de terminer avant la dernière génération",
+    "Actions taken this game": "Nombre d'action pendant cette partie",
+    "Escape Velocity penalty": "Pénalité de vitesse d'évasion",
+    "Download game log": "Télécharger le journal de la partie",
+    "Don't be greedy on card selection": "Ne soyez pas gourmand sur le choix des cartes",
+    "Gen:": "Gén :",
+    "of 14": "sur 14",
+
+    
+    "Claimed Diversifier milestone": "Objectif Diversificateur validé",
+    "Claimed Ecologist milestone": "Objectif Ecologiste validé",
+    "Claimed Energizer milestone": "Objectif Générateur validé",
+    "Claimed Gardener milestone": "Objectif Jardinier validé",
+    "Claimed Generalist milestone": "Objectif Généraliste validé",
+    "Claimed Hoverlord milestone": "Objectif Aéronaute validé",
+    "Claimed Legend milestone": "Objectif Légende validé",
+    "Claimed Mayor milestone": "Objectif Maire validé",
+    "Claimed Planner milestone": "Objectif Planificateur validé",
+    "Claimed Polar Explorer milestone": "Objectif Polaire validé",
+    "Claimed Rim Settler milestone": "Objectif Frontalier validé",
+    "Claimed Specialist milestone": "Objectif Spécialiste validé",
+    "Claimed Tactician milestone": "Objectif Tacticien validé",
+    "Claimed Terraformer milestone": "Objectif Terraformeur validé",
+    "Claimed Tycoon milestone": "Objectif Visionnaire validé"
+
+
+
+
 }
