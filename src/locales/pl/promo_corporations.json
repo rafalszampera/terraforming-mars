@@ -32,7 +32,7 @@
     "A": "A",
     "RES": "RES",    
 	"Philares": "Philares",
-    "You start with 47 M€. As your first action, place a greenery tile and raise the oxygen 1 step.": "Rozpoczynasz grę z 47 M€. W ramach swojej pierwszej akcji w grze umieść obszar zieleni na planszy i podnieś poziom tlenu o 1%.",
+    "You start with 47 M€. As your first action, place a greenery tile and raise the oxygen 1 step.": "Rozpoczynasz grę z 47 M€. W ramach swojej pierwszej akcji w grze umieść obszar zieleni na planszy i podnieś poziom tlenu o 1 poziom.",
     "Effect: Each new adjacency between your tile and an opponent's tile gives you a standard resource of your choice [regardless of who just placed a tile].": "Efekt trwały: Za każde nowe sąsiedztwo pomiędzy Twoim obszarem a obszarem innego gracza otrzymujesz 1 jednostkę wybranego przez siebie zasobu standardowego (bez względu na to, kto umieścił nowy obszar).",
     
 	"Recyclon": "Recyclon",

@@ -107,7 +107,7 @@
     "${0} gained 3 plants": "${0} otrzymał 3 jednostki roślinności",
     "${0} gained 2 titanium": "${0} otrzymał 2 jednostki tytanu",
     "${0} decreased temperature 1 step": "${0} obniżył temperaturę o 1 poziom",
-    "${0} decreased oxygen level 1 step": "${0} obniżył poziom tlenu o 1%",
+    "${0} decreased oxygen level 1 step": "${0} obniżył poziom tlenu o 1 poziom",
     "${0} decreased Venus scale level 1 step": "${0} obniżył Współczynnik Terraformacji Wenus o 1 poziom",
 
     "${0} kept ${1} project cards": "${0} zatrzymał/a ${1} kart/ę/y projektów",
