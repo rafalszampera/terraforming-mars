@@ -21,7 +21,7 @@
     
 	"By-Election": "Wybory Uzupełniające",
     "set ruling party": "Wybierz partię rządzącą.",
-    "Set the ruling party to one of your choice. Gain 1 influence.": "Wybierz partię rządzącą. Otrzyujesz 1 punkt wpływów.",
+    "Set the ruling party to one of your choice. Gain 1 influence.": "Wybierz partię rządzącą. Otrzmyujesz 1 punkt wpływów.",
     
 	"Political Uprising": "Powstanie Polityczne",
     "Place 4 delegates in any parties. Draw a Turmoil card.": "Umieść 4 delegatów w dowolnych partiach. Dobierz kartę z rozszerzenia Niepokoje.",
@@ -30,7 +30,7 @@
     "Gain 8 M€.": "Otrzymujesz 8 M€.",
     
 	"Trade Advance": "Zaliczka handlowa",
-    "Trade all colonies with": "Handluj ze wszystkimy obiektami z",
+    "Trade all colonies with": "Handluj ze wszystkimi obiektami z",
     "Gain 2 M€ [SOLO: Gain 10 M€]. Immediately trade with all active colonies. You may increase the Colony Tile track 1 step before each of these trades.": "Otrzymujesz 2 M€ [Solo: Otrzymujesz 10 M€]. Wykonaj akcję handlu ze wszystkimi kaflami obiektów. Możesz za każdym razem najpierw przesunąć biały znacznik obiektu o 1 pole w prawo na torze kolonii.",
     
 	"Valuable Gases": "Cenne Gazy",
@@ -134,8 +134,8 @@
     
 	"GHG Producing Bacteria": "Bakterie Produkujące Gazy Cieplarniane",
     "Action: Add 1 microbe to this card, or remove 2 microbes to raise temperature 1 step.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów lub wydaj 2 jednostki mikrobów z tej karty i podnieś temperaturę o 1 poziom.",
-    "(Action: Remove 2 microbes to raise temperature 1 step.)": "Akcja: Wydaj 2 jednostki mikrobów z tej karty,aby podnieść temperaturę o 1 poziom.",
-    "Requires 4% oxygen.": "Poziom tlenu musi musi wynosić co najmniej 4%.",
+    "(Action: Remove 2 microbes to raise temperature 1 step.)": "Akcja: Wydaj 2 jednostki mikrobów z tej karty, aby podnieść temperaturę o 1 poziom.",
+    "Requires 4% oxygen.": "Poziom tlenu musi wynosić co najmniej 4%.",
     
 	"Ants": "Mrówki",
     "Action: Remove 1 microbe from any card to add 1 to this card.": "Akcja: Usuń do 1 jednostkę mikrobów z innej karty dowolnego gracza i umieść ją na tej karcie.",
@@ -145,7 +145,7 @@
     "(Raise your terraforming rating 2 steps.)": "Podnieś swój WT o 2 stopnie.",
     
 	"Nitrogen-Rich Asteroid": "Asteroida Bogata w Azot",
-    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Podnieś swój Współczynnik Terraformacji o 2. Podnieś temperaturę o 2°C. Podnieś swoją produkcję roślinności o 1 poziom albo, jesli posiadasz 3 symbole Roślinności, o 4 poziomy.",
+    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Podnieś swój Współczynnik Terraformacji o 2. Podnieś temperaturę o 2°C. Podnieś swoją produkcję roślinności o 1 poziom albo, jeśli posiadasz 3 symbole Roślinności, o 4 poziomy.",
     
 	"Rover Construction": "Fabryka Łazików",
     "Effect: When any city tile is placed, gain 2 M€.": "Efekt trwały: Gdy którykolwiek z graczy umieści na planszy obszar miasta, otrzymujesz 2 M€.",
@@ -254,7 +254,7 @@
     
 	"Birds": "Ptaki",
     "Action: Add an animal to this card.": "Akcja: Umieść na tej karcie 1 jednostkę zwierząt.",
-    "Requires 13% oxygen. Decrease any plant production 2 steps. 1 VP per animal on this card.": "Poziom tlenu musi musi wynosić co najmniej 13%. Obniż produkcję roślinności dowolnego gracza o 2 poziomy. Otrzymujesz 1 PZ za każdą jednostkę zwierząt znajdującą się na tej karcie.",
+    "Requires 13% oxygen. Decrease any plant production 2 steps. 1 VP per animal on this card.": "Poziom tlenu musi wynosić co najmniej 13%. Obniż produkcję roślinności dowolnego gracza o 2 poziomy. Otrzymujesz 1 PZ za każdą jednostkę zwierząt znajdującą się na tej karcie.",
     
 	"Mars University": "Uniwersytet Marsjański",
     "Effect: When you play a science tag, including this, you may discard a card from hand to draw a card.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Nauki (z tą włącznie), za każdy symbol Nauki na zagrywanej karcie możesz odrzucić kartę z ręki i dobrać nową kartę.",
@@ -426,18 +426,18 @@
     
 	"Ecological Zone": "Strefa Ekologiczna",
     "(Effect: When you play an animal or plant tag INCLUDING THESE, add an animal to this card.)": "Efekt trwały: Gdy zagrywasz kartę z symbolem Zwierząt, lub Roślinności (z tą włącznie), za każdy z tych symboli na zagrywanej karcie umieść na tej karcie 1 jednostkę zwierząt.",
-    "(Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.)": "Musisz posiadać co najmniej 1 obszar zieleni. Umieść ten obszar specjalny na polu sasiadującym z obszarem zieleni.",
+    "(Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.)": "Musisz posiadać co najmniej 1 obszar zieleni. Umieść ten obszar specjalny na polu sąsiadujący z obszarem zieleni.",
     "1 VP per 2 animals on this card.": "Otrzymujesz 1 PZ za każde 2 jednostki zwierząt znajdujące się na tej karcie.",
     
 	"Zeppelins": "Sterowce",
-    "Requires 5% oxygen. Increase your M€ production 1 step for each city tile ON MARS.": "Poziom tlenu musi musi wynosić co najmniej 5%. Podnieś swoją produkcję M€ o 1 poziom za każdy obszar miasta na powierzchni Marsa.",
+    "Requires 5% oxygen. Increase your M€ production 1 step for each city tile ON MARS.": "Poziom tlenu musi wynosić co najmniej 5%. Podnieś swoją produkcję M€ o 1 poziom za każdy obszar miasta na powierzchni Marsa.",
     
 	"Worms": "Dżdżownice",
     "Requires 4% oxygen. Increase your plant production 1 step for every 2 microbe tags you have, including this.": "Poziom tlenu musi wynosić co najmniej 4%. Podnieś swoją produkcję roślinności o 1 poziom za każde 2 posiadane symbole Mikrobów (z tym włącznie).",
     
 	"Decomposers": "Reducenci",
     "Effect: When you play an animal, plant, or microbe tag, including this, add a microbe to this card.": "Efekt trwały: Gdy zagrywasz kartę z symbolem Roślinności, Mikrobów lub Zwierząt (z tą włącznie), za każdy z tych symboli na zagrywanej karcie umieść na tej karcie 1 jednostkę mikrobów.",
-    "Requires 3% oxygen.": "Poziom tlenu musi musi wynosić co najmniej 3%.",
+    "Requires 3% oxygen.": "Poziom tlenu musi wynosić co najmniej 3%.",
     "1 VP per 3 microbes on this card.": "Otrzymujesz po 1 PZ za każde 3 jednostki mikrobów znajdujące się na tej karcie.",
     
 	"Fusion Power": "Energia Termojądrowa",
@@ -485,7 +485,7 @@
     "Requires 2 science tags. Increase your energy production 3 steps.": "Musisz posiadać co najmniej 2 symbole Nauki. Podnieś swoją produkcję energii o 3 poziomy.",
     
 	"Nitrophilic Moss": "Mech Nitrofilny",
-    "Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps.": "Na planszy muszą znajdować się co najmniej 3 obszary oceanów. Podnieś swoją produkcję roslinności o 2 poziomy. Wydaj 2 jednostki roślinności.",
+    "Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps.": "Na planszy muszą znajdować się co najmniej 3 obszary oceanów. Podnieś swoją produkcję roślinności o 2 poziomy. Wydaj 2 jednostki roślinności.",
     
 	"Herbivores": "Roślinożercy",
     "Effect: When you place a greenery tile, add an animal to this card.": "Efekt trwały: Gdy umieszczasz na planszy obszar zieleni, umieść na tej karcie 1 jednostkę zwierząt.",
