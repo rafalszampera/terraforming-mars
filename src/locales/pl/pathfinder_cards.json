@@ -138,7 +138,7 @@
   "(Place a neutral player cube on a non-reserved space. No tile can be placed on that space this game. Gather any bonus on that space, but no bonuses from adjacent spaces. Add 2 data to ANY card.)": "Umieść znacznik neutralnego gracza na dowolnym niezarezerwowanym polu na planszy Marsa. Otrzymujesz wszystkie bonusy z tego pola, ale nie bonusy za sąsiedztwo. Do końca gry żaden obszar nie moze być umieszczony na tym polu. Umieść 2 jednostki danych na dowolnej karcie.",
 
   "Martian Repository": "Repozytorium Marsjańskie",
-  "(Effect: For every science or Mars tag you play (including these) add 1 data to this card.)": "Efekt trwały: za każdym razem gdy zagrywasz symbol Nauki lub Marsa (z tymi włącznie) umieść 1 jednostkę danych na tej karcie.",
+  "(Effect: For every science or Mars tag you play (including these) add 1 data to this card.)": "Efekt trwały: za każdym razem gdy zagrywasz kartę z symbolem Nauki lub Marsa (z tą włącznie) umieść 1 jednostkę danych na tej karcie.",
   "(Decrease your energy production 1 step. 1 VP for every 3 data here.)": "Obniż swoją produkcję energii o 1 poziom. Otrzymujesz 1 PZ za każde 3 jednostki danych na tej karcie.",
 
   "Microbiology Patents": "Patenty Mikrobiologiczne",
@@ -222,7 +222,7 @@
   "(Requires 4 space tags. Gain 3 titanium. Add 1 resource to ANY card (not cards that take ANIMAL or SCIENCE resources.) Add 1 data to ANY card. Draw 1 card.)": "Musisz posiadać co najmniej 4 symbole Przestrzeni Kosmicznej. Otrzymujesz 3 jednostki tytanu. Umieść 1 wybraną jednostkę (oprócz zwierząt i nauki) na dowolnej karcie. Umieść 1 jednostkę danych na dowolnej karcie. Dobierz 1 kartę.",
 
   "Space Relay": "Przekaźnik Kosmiczny",
-  "(Effect: Whenever you play a card with a Jovian tag, including this, draw a card.)": "Efekt trwały: Za każdym razem gdy zagrywasz symbol Jowisza (z tym włącznie) dobierz 1 kartę.",
+  "(Effect: Whenever you play a card with a Jovian tag, including this, draw a card.)": "Efekt trwały: Za każdym razem gdy zagrywasz kartę z symbolem Jowisza (z tą włącznie) dobierz 1 kartę.",
   "(Erhöhe deine M€-Produktion um 1 Schritt.)": "Podnieś swoją produkcję M€ o 1 poziom.",
 
   "Specialized Settlement": "Wyspecjalizowana Osada",
