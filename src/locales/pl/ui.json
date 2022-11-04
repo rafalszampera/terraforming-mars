@@ -424,8 +424,8 @@
     "Alt. Venus Board": "Alternatywna plansza Wenus",
     "arabia terra": "Arabia Terra",
     "vastitas borealis": "Vastitas Borealis",
-    "amazonis p.": "Amazonis P.",
-    "t. cimmeria": "T. Cimmeria",
+    "amazonis p.": "Amazonis Planitia",
+    "t. cimmeria": "Terra Cimmeria",
 	
     "Escape Velocity": "Prędkość ucieczki",
     "After ${0} min": "co ${0} minut",
@@ -498,8 +498,7 @@
     "Increase plants production 1 step": "Podnieś produkcję roślinności o 1",
     "Increase energy production 1 step": "Podnieś produkcję energii o 1",
     "Increase heat production 1 step": "Podnieś produkcję ciepła o 1",
-    
-	"Copied!": "Skopiowano!",
+    "Copied!": "Skopiowano!",
 	"Copy to Clipboard": "Skopiuj do schowka",
 	"Close": "Zamknij",
 	"or the": "lub",
