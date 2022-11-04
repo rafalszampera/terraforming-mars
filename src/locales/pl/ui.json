@@ -27,7 +27,7 @@
 	
     "victoryPoints": "Punkty Zwycięstwa",
     "terraformRating": "Współczynnik Terraformacji",	
-    "milestones": "tytuły",	
+    "milestones": "Tytuł",	
     "Claimed ": "Zdobyto ",
     " milestone": " tytuł",
     "greenery": "zieleń",
@@ -424,6 +424,8 @@
     "Alt. Venus Board": "Alternatywna plansza Wenus",
     "arabia terra": "Arabia Terra",
     "vastitas borealis": "Vastitas Borealis",
+    "amazonis p.": "Amazonis P.",
+    "t. cimmeria": "T. Cimmeria",
 	
     "Escape Velocity": "Prędkość ucieczki",
     "After ${0} min": "co ${0} minut",
@@ -495,5 +497,15 @@
     "Increase titanium production 1 step": "Podnieś produkcję tytanu o 1",
     "Increase plants production 1 step": "Podnieś produkcję roślinności o 1",
     "Increase energy production 1 step": "Podnieś produkcję energii o 1",
-    "Increase heat production 1 step": "Podnieś produkcję ciepła o 1"
+    "Increase heat production 1 step": "Podnieś produkcję ciepła o 1",
+    
+	"Copied!": "Skopiowano!",
+	"Copy to Clipboard": "Skopiuj do schowka",
+	"Close": "Zamknij",
+	"or the": "lub",
+	"Debug View": "Tryb debugowania",
+	"Add information useful for development and debugging.": "Dodaj użyteczne dla rozwoju debugowania informcje.",
+	"Copy the text below and then paste it in": "Skopiuj tekst i wklej go",
+	"#bug-reports Discord channel": "na kanale Discorda #bug-reports",
+	"a GitHub issue": "jako błąd na stronie GitHub"
 }
