@@ -1,5 +1,5 @@
 {
-    "${0} revealed and discarded ${1}": "${0} ujawnia i odrzucia ${1}",
+    "${0} revealed and discarded ${1}": "${0} ujawnia i odrzuca ${1}",
     "${0} used ${1} standard action": "${0} wykorzystuje akcję standardową ${1}",
     "Generation ${0}": "Pokolenie ${0}",
     "${0} added ${1} ${2} to ${3}": "${0} dodaje ${1} ${2} do ${3}",
