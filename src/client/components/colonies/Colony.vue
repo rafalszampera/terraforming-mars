@@ -3,7 +3,7 @@
     <div v-if="colony.visitor !== undefined" class="colony-spaceship">
       <div :class="'colonies-fleet colonies-fleet-'+ colony.visitor"></div>
     </div>
-    <div v-if="colony.isActive" :style="`margin-left: ${cubeXPosition}px; margin-top:${cubeYPosition + colonyCubeOffset}px;`" class="colony_cube"></div>
+    <div v-if="colony.isActive" :style="`margin-left: ${cubeXPosition}px; margin-top:${cubeYPosition + colonyCubeOffset}px;`" class="colony_cube" :class="{ 'animated' : isColonyCubeAnimated}"></div>
     <template v-for="idx in [0, 1, 2]">
       <div :key="idx" v-if="colony.colonies.length > idx" :style="`margin-left: ${colonyXPositions[idx]}px;  margin-top:${cubeYPosition}px;`" class="occupied-colony-space">
         <div :class="'board-cube colony-cube board-cube--' + colony.colonies[idx]"></div>
@@ -143,6 +143,9 @@ export default Vue.extend({
     ColonyTradeRow,
   },
   computed: {
+    isColonyCubeAnimated(): boolean {
+      return this.colony.trackPosition < 3;
+    },
     cubeXPosition(): number {
       return this.colony.trackPosition * 56 + 27;
     },

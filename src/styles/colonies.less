@@ -5,6 +5,17 @@
     width: 30px;
     height: 30px;
     z-index: 3;
+	&.animated{		
+		animation: colony-cube-animation 2s infinite;
+	}
+}
+
+@keyframes colony-cube-animation {
+	0% { filter: opacity(1)}
+	49% { filter: opacity(1)}
+	70% { filter: opacity(0.4)}
+	99% { filter: opacity(0.4)}
+	100% { filter: opacity(1)}
 }
 
 .colony-spaceship {
